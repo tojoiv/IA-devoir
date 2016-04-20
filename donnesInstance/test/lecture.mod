@@ -9,13 +9,15 @@ execute {
      var s;
      //var reg = new RegExp ("[ \t]+", "m");
      fOut.writeln ("test1 = {");
+     var virgule_out = "";
      while (!fIn.eof) {
-	      s=fIn.readline();
+	      s=fIn.readline();	      
 	      //tab = s.split (/[ \t]+/);
-	      if (s != ""){
+	      if (s != ""){		      
 		      var space = s.split (" ");
 		      var sp_ln = space.length;
-		      var virgule = "";
+		      var virgule_in = "";
+		      fOut.writeln (virgule_out);
 		      fOut.write ("<");
 		      for (var i = 0 ; i < sp_ln ; i ++ ){	      	 
 	      	 	 var tabu = space [i].split ("\t");
@@ -23,12 +25,16 @@ execute {
 		  		 for (var j = 0; j < tb_ln ; j ++){
 		  		 	if (tabu[j] != ""){
 		  		 		//str = str.concat ("", )
-		  		 		fOut.write (virgule,"\"",tabu[j],"\"");
-		  		 		virgule = ",";
+		  		 		fOut.write (virgule_in,"\"",tabu[j],"\"");
+		  		 		virgule_in = ",";		  		 		
 		  		 	}
-		  		 }	  		 
+		  		 }
+
 		      }
-		      fOut.writeln (">");
+		      
+		      fOut.write (">");
+		      virgule_out = ",";
+
 	      }
 
 	      
@@ -36,7 +42,8 @@ execute {
 	   //fOut.writeln ("<",tab[0],">");
       //fOut.writeln("{", sp_ln, "}");
      }
-
+     fOut.writeln ();
+     fOut.writeln ();
      fOut.writeln ("};");
 
      fIn.close();
