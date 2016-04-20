@@ -1,0 +1,11 @@
+nom = "dem_10_2";
+
+fichiersDonnees = {
+	"../donneesInstances/jo/sessions.txt",
+	"../donneesInstances/jo/zones.txt",
+	"../donneesInstances/jo/transferts_zones.txt",
+	"../donneesInstances/jo/pits_Rio_1.txt",
+	"../donneesInstances/jo/transferts_pits.txt",
+	"../donneesInstances/jo/demandes/dem_10_2.txt"
+};
+

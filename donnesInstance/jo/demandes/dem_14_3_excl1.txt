@@ -1,0 +1,2 @@
+// un exemple avec restriction positives et negatives
+demande  d14.3.e1  14   3  -AT002 -monasteiroSantoAntônio -monasteiroSãoBento -museuNacionalDeBelasArtes -museuHistóricoNacionalRio

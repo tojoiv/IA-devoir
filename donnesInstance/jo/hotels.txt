@@ -1,0 +1,39 @@
+// --- hotels -----
+// Format : 
+// hotel <idH> 				<categorie> <quota>
+
+// ----- Hotels Secteur Copacabana  ----- 
+		
+
+hotel	CopacabanaPalace	5	3
+hotel	CasaDelAngel		4	12
+hotel	Pestana				5	8
+hotel	Augusto				3	5
+hotel	Miramar				2	7
+hotel	Giralsol			1	8
+
+// ----- Hotels Secteur Centro  ----- 
+
+hotel	WindsorGuanabara	4	3
+hotel	PumaHotel			3	5
+hotel	DiamondHotel		3	7
+hotel	President			2	8
+hotel	PoussadaAdres		2	2  
+// Pb déclaré deux fois 
+
+// ----- Hotels Secteur Barra  ----- 
+
+hotel	Paradisio			4	 8
+hotel	GrandBarra			5	10
+hotel	PraiaLinda			3	6
+hotel	Oceanico			2	8
+hotel	SolDaBarra			1	3
+
+// ----- Hotels Secteur Deodouro  ----- 
+
+hotel	RJNova				3	5
+hotel	Tropical			2	10
+hotel	CasaBrasil			2	3
+hotel	PoussadaDaRosa		2	3
+hotel	PoussadaReal		1	2
+

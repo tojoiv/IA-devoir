@@ -1,0 +1,4 @@
+// ----- Demandes ----- 
+// un exemple sans restriction
+demande  d2  6    4
+

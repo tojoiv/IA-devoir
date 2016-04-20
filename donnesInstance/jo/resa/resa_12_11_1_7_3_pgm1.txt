@@ -1,0 +1,11 @@
+// Reservation
+// Format : 
+// reservation <idR> 		<d> 	<nj> 	<nc> 	<cat>	programme 		<P1> | <P2> | ... | <Pnj>
+
+reservation  lesRunners  	12		11   	7		3		programme 	BD004 TT018 | FE016 BW026 | GO004 AT005  | HB028 DV008 | jourLibre | BD017 VO038 | MP001 TK005 | ES004 AT014  | jardimBotânico GR005 | GR006 ZC001 |  excursãoBuzios excursãoLapaByNight 
+                                                                     // 12            13            14            15             16          17           18              19           20                      21            22     
+                                                                     
+                                                                     
+                                                                     
+                                                                     
+                                                                     

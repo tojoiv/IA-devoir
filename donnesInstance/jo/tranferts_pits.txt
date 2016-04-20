@@ -1,0 +1,145 @@
+
+// --- Temps de transfert pits <-> zones (dans les deux sens) ---
+transfert	monasteiroSãoBento		Barra		 		80
+transfert	monasteiroSãoBento		Deodoro		 		60
+transfert	monasteiroSãoBento		Maracanã	 		10
+transfert	monasteiroSãoBento		Copacabana	 		40
+
+transfert	pacoImperial			Barra		 		90
+transfert	pacoImperial			Deodoro		 		60
+transfert	pacoImperial			Maracanã	 		10
+transfert	pacoImperial			Copacabana	 		50
+
+transfert	museuHistóricoNacionalRio	Barra		 	80
+transfert	museuHistóricoNacionalRio	Deodoro		 	60
+transfert	museuHistóricoNacionalRio	Maracanã	 	10
+transfert	museuHistóricoNacionalRio	Copacabana	 	40
+
+transfert	monasteiroSantoAntônio	Barra		 		80
+transfert	monasteiroSantoAntônio	Deodoro		 		60
+transfert	monasteiroSantoAntônio	Maracanã	 		10
+transfert	monasteiroSantoAntônio	Copacabana	 		40
+
+transfert	corcovado				Barra		 		70
+transfert	corcovado				Deodoro		 		50
+transfert	corcovado				Maracanã	 		30
+transfert	corcovado				Copacabana	 		60
+
+transfert	jardimBotânico			Barra		 		50
+transfert	jardimBotânico			Deodoro		 		60
+transfert	jardimBotânico			Maracanã	 		30
+transfert	jardimBotânico			Copacabana	 		40
+
+transfert	pãoDeAçucar				Barra		 		80
+transfert	pãoDeAçucar				Deodoro		 		70
+transfert	pãoDeAçucar				Maracanã	 		30
+transfert	pãoDeAçucar				Copacabana	 		30
+
+transfert	museuNacionalDeBelasArtes	Barra			70
+transfert	museuNacionalDeBelasArtes	Deodoro			60
+transfert	museuNacionalDeBelasArtes	Maracanã		10
+transfert	museuNacionalDeBelasArtes	Copacabana		40
+
+
+transfert	excursãoLapaByNight		Barra		 		60
+transfert	excursãoLapaByNight		Deodoro		 		70
+transfert	excursãoLapaByNight		Maracanã	 		20
+transfert	excursãoLapaByNight		Copacabana	 		20
+
+
+transfert	excursãoUrca			Barra		 		70
+transfert	excursãoUrca			Deodoro		 		80
+transfert	excursãoUrca			Maracanã	 		30
+transfert	excursãoUrca			Copacabana	 		30
+
+
+transfert	praiaIpanemaLeblon		Barra		 		30
+transfert	praiaIpanemaLeblon		Deodoro		 		50
+transfert	praiaIpanemaLeblon		Maracanã	 		50
+transfert	praiaIpanemaLeblon		Copacabana	 		40
+
+
+transfert	excursãoBuzios			Barra		 		50
+transfert	excursãoBuzios			Deodoro		 		50
+transfert	excursãoBuzios			Maracanã	 		10
+transfert	excursãoBuzios			Copacabana	 		20
+
+// --- Transfert entre PITs -----
+
+transfert	monasteiroSãoBento			pacoImperial	 				10
+transfert	monasteiroSãoBento			museuHistóricoNacionalRio		20
+transfert	monasteiroSãoBento			monasteiroSantoAntônio	 		20
+transfert	monasteiroSãoBento			corcovado		 				60
+transfert	monasteiroSãoBento			jardimBotânico	 				50
+transfert	monasteiroSãoBento			pãoDeAçucar		 				40
+transfert	monasteiroSãoBento			museuNacionalDeBelasArtes	 	20
+transfert	monasteiroSãoBento			excursãoLapaByNight			 	30
+transfert	monasteiroSãoBento			excursãoUrca				 	40
+transfert	monasteiroSãoBento			praiaIpanemaLeblon			 	50
+transfert	monasteiroSãoBento			excursãoBuzios	 				20
+
+transfert	pacoImperial				museuHistóricoNacionalRio	 	20
+transfert	pacoImperial				monasteiroSantoAntônio	 		10
+transfert	pacoImperial				corcovado		 				60
+transfert	pacoImperial				jardimBotânico	 				50
+transfert	pacoImperial				pãoDeAçucar		 				40
+transfert	pacoImperial				museuNacionalDeBelasArtes	 	20
+transfert	pacoImperial				excursãoLapaByNight			 	30
+transfert	pacoImperial				excursãoUrca				 	40
+transfert	pacoImperial				praiaIpanemaLeblon			 	60
+transfert	pacoImperial				excursãoBuzios	 				20
+
+transfert	museuHistóricoNacionalRio	monasteiroSantoAntônio	 		20
+transfert	museuHistóricoNacionalRio	corcovado		 				10
+transfert	museuHistóricoNacionalRio	jardimBotânico	 				50
+transfert	museuHistóricoNacionalRio	pãoDeAçucar		 				40
+transfert	museuHistóricoNacionalRio	museuNacionalDeBelasArtes	 	40
+transfert	museuHistóricoNacionalRio	excursãoLapaByNight			 	50
+transfert	museuHistóricoNacionalRio	excursãoUrca				 	40
+transfert	museuHistóricoNacionalRio	praiaIpanemaLeblon			 	60
+transfert	museuHistóricoNacionalRio	excursãoBuzios	 				20
+
+transfert	monasteiroSantoAntônio		corcovado		 				50
+transfert	monasteiroSantoAntônio		jardimBotânico	 				60
+transfert	monasteiroSantoAntônio		pãoDeAçucar		 				30
+transfert	monasteiroSantoAntônio		museuNacionalDeBelasArtes	 	10
+transfert	monasteiroSantoAntônio		excursãoLapaByNight			 	40
+transfert	monasteiroSantoAntônio		excursãoUrca				 	30
+transfert	monasteiroSantoAntônio		praiaIpanemaLeblon			 	50
+transfert	monasteiroSantoAntônio		excursãoBuzios	 				20
+
+transfert	corcovado					jardimBotânico	 				70
+transfert	corcovado					pãoDeAçucar		 				60
+transfert	corcovado					museuNacionalDeBelasArtes	 	50
+transfert	corcovado					excursãoLapaByNight			 	60
+transfert	corcovado					excursãoUrca				 	60
+transfert	corcovado					praiaIpanemaLeblon			 	80
+transfert	corcovado					excursãoBuzios	 				40
+
+transfert	jardimBotânico				pãoDeAçucar		 				60
+transfert	jardimBotânico				museuNacionalDeBelasArtes	 	60
+transfert	jardimBotânico				excursãoLapaByNight			 	30
+transfert	jardimBotânico				excursãoUrca				 	60
+transfert	jardimBotânico				praiaIpanemaLeblon			 	30
+transfert	jardimBotânico				excursãoBuzios	 				40
+
+transfert	pãoDeAçucar					museuNacionalDeBelasArtes	 	40
+transfert	pãoDeAçucar					excursãoLapaByNight			 	40
+transfert	pãoDeAçucar					excursãoUrca				 	30
+transfert	pãoDeAçucar					praiaIpanemaLeblon			 	60
+transfert	pãoDeAçucar					excursãoBuzios	 				40
+
+transfert	museuNacionalDeBelasArtes	excursãoLapaByNight			 	20
+transfert	museuNacionalDeBelasArtes	excursãoUrca				 	20
+transfert	museuNacionalDeBelasArtes	praiaIpanemaLeblon			 	20
+transfert	museuNacionalDeBelasArtes	excursãoBuzios	 				20
+
+transfert	excursãoLapaByNight			excursãoUrca				 	20
+transfert	excursãoLapaByNight			praiaIpanemaLeblon			 	20
+transfert	excursãoLapaByNight			excursãoBuzios	 				20
+
+transfert	excursãoUrca				praiaIpanemaLeblon			 	20
+transfert	excursãoUrca				excursãoBuzios	 				20
+
+transfert	praiaIpanemaLeblon			excursãoBuzios	 				20
+

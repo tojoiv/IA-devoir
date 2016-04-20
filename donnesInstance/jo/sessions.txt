@@ -1,0 +1,3348 @@
+// Program of all sessions of the Olympic Games - 2016 - 
+
+
+// -------------- Ceremonies ---------------------
+
+session  	ZO001	Ceremony	5	18:00	23:00	Olympic-Stadium
+// ZO001 session program : 
+   // Opening Ceremony
+session  	ZC001	Ceremony	21	18:00	23:00	Olympic-Stadium
+// ZC001 session program : 
+   // Closing Ceremony
+   // M Marathon victory ceremony
+
+// -------------- Archery ---------------------
+
+session  	AR003	Archery	6	09:00	12:20	Sambódromo
+// AR003 session program : 
+   // M Team: 1/8 eliminations
+session  	AR004	Archery	6	15:00	19:00	Sambódromo
+// AR004 session program : 
+   // M Team: quarter-finals
+   // M Team: semi-finals
+   // M Team: bronze medal match
+   // M Team: gold medal match
+   // M Team: victory ceremony
+session  	AR005	Archery	7	09:00	12:20	Sambódromo
+// AR005 session program : 
+   // W Team: 1/8 eliminations
+session  	AR006	Archery	7	15:00	19:00	Sambódromo
+// AR006 session program : 
+   // W Team: quarter-finals
+   // W Team: semi-finals
+   // W Team: bronze medal match
+   // W Team: gold medal match
+   // W Team: victory ceremony
+session  	AR007	Archery	8	09:00	13:00	Sambódromo
+// AR007 session program : 
+   // M Individual: 1/32 eliminations
+   // W Individual: 1/32 eliminations
+   // M Individual: 1/16 eliminations
+   // W Individual: 1/16 eliminations
+session  	AR008	Archery	8	15:00	17:40	Sambódromo
+// AR008 session program : 
+   // M Individual: 1/32 eliminations
+   // W Individual: 1/32 eliminations
+   // M Individual: 1/16 eliminations
+   // W Individual: 1/16 eliminations
+session  	AR009	Archery	9	09:00	13:00	Sambódromo
+// AR009 session program : 
+   // M Individual: 1/32 eliminations
+   // W Individual: 1/32 eliminations
+   // M Individual: 1/16 eliminations
+   // W Individual: 1/16 eliminations
+session  	AR010	Archery	9	15:00	17:40	Sambódromo
+// AR010 session program : 
+   // M Individual: 1/32 eliminations
+   // W Individual: 1/32 eliminations
+   // M Individual: 1/16 eliminations
+   // W Individual: 1/16 eliminations
+session  	AR011	Archery	11	09:00	10:45	Sambódromo
+// AR011 session program : 
+   // W Individual: 1/8 eliminations
+session  	AR012	Archery	11	15:00	17:20	Sambódromo
+// AR012 session program : 
+   // W Individual: quarter-finals
+   // W Individual: semi-finals
+   // W Individual: bronze medal match
+   // W Individual: gold medal match
+   // W Individual: victory ceremony
+session  	AR013	Archery	12	09:00	10:45	Sambódromo
+// AR013 session program : 
+   // M Individual: 1/8 eliminations
+session  	AR014	Archery	12	15:00	17:20	Sambódromo
+// AR014 session program : 
+   // M Individual: quarter-finals
+   // M Individual: semi-finals
+   // M Individual: bronze medal match
+   // M Individual: gold medal match
+   // M Individual: victory ceremony
+
+// -------------- Athletics ---------------------
+
+session  	AT001	Athletics	12	09:30	13:10	Olympic-Stadium
+// AT001 session program : 
+   // M Discus: qualifying round, group A
+   // W Heptathlon: 100m hurdles
+   // W Shot Put: qualifying round, groups A and B
+   // W 10,000m: final
+   // W Heptathlon: high jump, groups A and B
+   // M 800m: round 1
+   // M Discus: qualifying round, group B
+   // W100m: preliminary round
+session  	AT002	Athletics	12	20:20	23:25	Olympic-Stadium
+// AT002 session program : 
+   // M 20km Race Walk: victory ceremony
+   // W 1500m: round 1
+   // W Heptathlon: shot put, groups A and B
+   // W Hammer: qualifying round, group A
+   // M 400m: round 1
+   // M Long Jump: qualifying round, groups A and B
+   // W Heptathlon: 200m
+   // W Hammer: qualifying round, group B
+   // W 100m: round 1
+session  	AT003	Athletics	13	09:30	12:50	Olympic-Stadium
+// AT003 session program : 
+   // M 100m: preliminary round
+   // W Triple Jump: qualifying round, groups A and B
+   // W 3000m Steeplechase: round 1
+   // M Discus: final
+   // W 400m: round 1
+   // W Heptathlon: long jump, groups A and B
+   // M 100m: round 1
+   // M Discus: victory ceremony
+session  	AT004	Athletics	13	20:00	23:15	Olympic-Stadium
+// AT004 session program : 
+   // W Heptathlon: javelin throw, group A
+   // W Shot Put: victory ceremony
+   // M Pole Vault: qualifying round, groups A and B
+   // M 400m: semi-finals
+   // M Long Jump: final
+   // W 100m: semi-finals
+   // W Heptathlon: javelin throw, group B
+   // M 800m: semi-finals
+   // M 10,000m: final
+   // W 100m: final
+   // W Heptathlon: 800m
+   // M Long Jump: victory ceremony
+session  	AT005	Athletics	14	20:15	22:30	Olympic-Stadium
+// AT005 session program : 
+   // W Marathon: victory ceremony
+   // M 10,000m: victory ceremony
+   // High Jump: qualifying round, groups A and B
+   // W 400m: semifinals
+   // W Triple Jump: final
+   // M 100m: semi-finals
+   // W 100m: victory ceremony
+   // W 1500m: semi-finals
+   // M 400m: final
+   // W Heptatlon: victory ceremony
+   // M 100m: final
+session  	AT006	Athletics	15	09:30	12:40	Olympic-Stadium
+// AT006 session program : 
+   // M Triple Jump: qualifying round, groups A and B
+   // M 3000m Steeplechase: round 1
+   // W 3000m Steeplechase: final
+   // W Hammer: final
+   // M 400m Hurdles: round 1
+   // W 400m Hurdles: round 1
+   // W 3000m Steeplechase: victory ceremony
+session  	AT007	Athletics	15	20:15	22:30	Olympic-Stadium
+// AT007 session program : 
+   // M 400m: victory ceremony
+   // W Triple Jump: victory ceremony
+   // W Discus: qualifying round, group A
+   // M Pole Vault: final
+   // M 110m Hurdles: round 1
+   // M 100m: victory ceremony
+   // W 200m: round 1
+   // W Discus Throw: qualifying round, group B
+   // M 800m: final
+   // W Hammer: victory ceremony
+   // W 400m: final
+session  	AT008	Athletics	16	09:30	13:05	Olympic-Stadium
+// AT008 session program : 
+   // W 5000m: round 1
+   // W Pole Vault: qualifying round, groups A and B
+   // M Triple Jump: final
+   // M 1500m: round 1
+   // W 100m Hurdles: round 1
+   // W Discus: final
+   // M 200m: round 1
+   // M Triple Jump: victory ceremony
+session  	AT009	Athletics	16	17:45	23:05	Olympic-Stadium
+// AT009 session program : 
+   // M 800m: victory ceremony
+   // W 400m: victory ceremony
+   // M High Jump: final
+   // W Javelin: qualifying round, group A
+   // M 110m Hurdles: semi-finals
+   // M Pole Vault: victory ceremony
+   // W Long Jump: qualifying round, groups A and B
+   // W 400m Hurdles: semi-finals
+   // M 400m Hurdles: semi-finals
+   // W Javelin: qualifying round, group B
+   // W 200m: semi-finals
+   // W 1500m: final
+   // W Discus: victory ceremony
+   // M 110m Hurdles: final
+session  	AT010	Athletics	17	09:30	16:25	Olympic-Stadium
+// AT010 session program : 
+   // M Decathlon: 100m
+   // M Hammer: qualifying round, group A
+   // M 5000m: round 1
+   // M Decathlon: long jump, groups A and B
+   // W 800m: round 1
+   // M Hammer: qualifying round, group B
+   // M 3000m Steeplechase: final
+   // M Decathlon: shot put, groups A and B
+session  	AT011	Athletics	17	18:35	22:35	Olympic-Stadium
+// AT011 session program : 
+   // M Decathlon: high jump, groups A and B
+   // M High Jump: victory ceremony
+   // M Javelin: qualifying round, group A
+   // W 100m Hurdles: semi-finals
+   // W 1500m: victory ceremony
+   // W Long Jump: final
+   // M Decathlon: 400m
+   // M Javelin: qualifying round, group B
+   // M 200m: semi-finals
+   // W 200m: final
+   // M 110m Hurdles: victory ceremony
+   // W 100m Hurdles: final
+   // M 3000m Steeplechase: victory ceremony
+session  	AT012	Athletics	18	09:30	16:25	Olympic-Stadium
+// AT012 session program : 
+   // M Decathlon: 110m hurdles
+   // M Shot Put: qualifying round, groups A and B
+   // W High Jump: qualifying round, groups A and B
+   // M Decathlon: discus, group A
+   // W 4 x 100m: relay round 1
+   // M 4 x 100m relay round 1
+   // M Decathlon: discus, group B
+   // M 400m Hurdles: final
+   // M Decathlon: pole vault, groups A and B
+session  	AT013	Athletics	18	18:35	22:35	Olympic-Stadium
+// AT013 session program : 
+   // Decathlon: javelin, group A
+   // W Long Jump: victory ceremony
+   // W 100m Hurdles: victory ceremony
+   // Decathlon: javelin, group B
+   // W 200m: victory ceremony
+   // M Shot Put: final
+   // M 1500m: semi-finals
+   // M 400m Hurdles: victory ceremony
+   // W Javelin: final
+   // W 800m: semi-finals
+   // M Decathlon: 1500m
+   // W 400m Hurdles: final
+   // M Shot Put: victory ceremony
+   // M 200m: final
+session  	AT014	Athletics	19	20:10	22:45	Olympic-Stadium
+// AT014 session program : 
+   // M 50km Race Walk: victory ceremony
+   // W 20km Race Walk: victory ceremony
+   // M 200m: victory ceremony
+   // W Pole Vault: final
+   // W 4 x 400m Relay: round 1
+   // M Decathlon: victory ceremony
+   // M Hammer: final
+   // M 4 x 400m Relay: round 1
+   // W Javelin: victory ceremony
+   // W 5000m: final
+   // W 4 x 100m Relay: final
+   // W 400m Hurdles: victory ceremony
+   // M 4 x 100m Relay: final
+   // M 5000m: victory ceremony
+session  	AT015	Athletics	20	20:10	22:45	Olympic-Stadium
+// AT015 session program : 
+   // M Hammer: victory ceremony
+   // M W Pole Vault: victory ceremony
+   // W 4 x 100m Relay: victory ceremony
+   // W High Jump: final
+   // M 4 x 100m Relay: victory ceremony
+   // M Javelin: final
+   // M 1500m: final
+   // W 800m: final
+   // M 5000m: final
+   // W 800m: victory ceremony
+   // W 4 x 400m Relay: final
+   // M 1500m: victory ceremony
+   // W 5000m: victory ceremony
+   // M 4 x 400m: relay final
+   // M Javelin: victory ceremony
+   // W High Jump: victory ceremony
+   // W 4 x 400m Relay: victory ceremony
+   // M 4 x 400m Relay: victory ceremony
+
+// -------------- Athletics-Marathon ---------------------
+
+session  	AM001	Athletics-Marathon	14	09:30	12:30	Sambódromo
+// AM001 session program : 
+   // W Marathon
+   // W Marathon: victory ceremony
+session  	AM002	Athletics-Marathon	21	09:30	12:15	Sambódromo
+// AM002 session program : 
+   // W Marathon
+   // W Marathon: victory ceremony
+
+// -------------- Athletics-RaceWalk ---------------------
+
+session  	AW001	Athletics-RaceWalk	12	14:30	16:10	TBC
+// AW001 session program : 
+   // M 20km Race Walk
+session  	AW002	Athletics-RaceWalk	19	08:00	12:20	TBC
+// AW002 session program : 
+   // M 50km Race Walk
+session  	AW003	Athletics-RaceWalk	19	14:30	16:15	TBC
+// AW003 session program : 
+   // W 20km Race Walk
+
+// -------------- Badmington ---------------------
+
+session  	BD001	Badmington	11	08:00	14:00	Riocentro-Pavilion-4
+// BD001 session program : 
+   // M Singles: group play
+   // W Singles: group play
+   // M Doubles: group play
+   // W Doubles: group play
+   // MW Doubles: group play
+session  	BD002	Badmington	11	15:30	18:00	Riocentro-Pavilion-4
+// BD002 session program : 
+   // M Singles: group play
+   // W Singles: group play
+   // M Doubles: group play
+   // W Doubles: group play
+   // MW Doubles: group play
+session  	BD003	Badmington	11	19:30	23:00	Riocentro-Pavilion-4
+// BD003 session program : 
+   // M Singles: group play
+   // W Singles: group play
+   // M Doubles: group play
+   // W Doubles: group play
+   // MW Doubles: group play
+session  	BD004	Badmington	12	08:00	14:00	Riocentro-Pavilion-4
+// BD004 session program : 
+   // M Singles: group play
+   // W Singles: group play
+   // M Doubles: group play
+   // W Doubles: group play
+   // MW Doubles: group play
+session  	BD005	Badmington	12	15:30	18:00	Riocentro-Pavilion-4
+// BD005 session program : 
+   // M Singles: group play
+   // W Singles: group play
+   // M Doubles: group play
+   // W Doubles: group play
+   // MW Doubles: group play
+session  	BD006	Badmington	12	19:30	23:00	Riocentro-Pavilion-4
+// BD006 session program : 
+   // M Singles: group play
+   // W Singles: group play
+   // M Doubles: group play
+   // W Doubles: group play
+   // MW Doubles: group play
+session  	BD007	Badmington	13	08:00	14:00	Riocentro-Pavilion-4
+// BD007 session program : 
+   // M Singles: group play
+   // W Singles: group play
+   // M Doubles: group play
+   // W Doubles: group play
+   // MW Doubles: group play
+session  	BD008	Badmington	13	15:30	18:00	Riocentro-Pavilion-4
+// BD008 session program : 
+   // M Singles: group play
+   // W Singles: group play
+   // M Doubles: group play
+   // W Doubles: group play
+   // MW Doubles: group play
+session  	BD009	Badmington	13	19:30	23:00	Riocentro-Pavilion-4
+// BD009 session program : 
+   // M Singles: group play
+   // W Singles: group play
+   // M Doubles: group play
+   // W Doubles: group play
+   // MW Doubles: group play
+session  	BD010	Badmington	14	08:00	13:30	Riocentro-Pavilion-4
+// BD010 session program : 
+   // M Singles: group play
+   // W Singles: group play
+session  	BD011	Badmington	14	15:30	18:00	Riocentro-Pavilion-4
+// BD011 session program : 
+   // M Singles: group play
+   // W Singles: group play
+session  	BD012	Badmington	14	19:30	22:30	Riocentro-Pavilion-4
+// BD012 session program : 
+   // W Singles: group play
+   // MW Doubles: quarter finals
+session  	BD013	Badmington	15	08:30	13:30	Riocentro-Pavilion-4
+// BD013 session program : 
+   // M Singles: round of 16
+   // M Doubles: quarter-finals
+   // W Doubles: quarter-finals
+session  	BD014	Badmington	15	17:30	23:00	Riocentro-Pavilion-4
+// BD014 session program : 
+   // M Singles: round of 16
+   // W Singles: round of 16
+   // MW Doubles: semi-nals
+session  	BD015	Badmington	16	08:30	12:30	Riocentro-Pavilion-4
+// BD015 session program : 
+   // M Doubles: semi-finals
+   // W Doubles: semi-finals
+session  	BD016	Badmington	16	17:30	23:00	Riocentro-Pavilion-4
+// BD016 session program : 
+   // W Singles: quarter-finals
+   // MW Doubles: bronze medal match
+session  	BD017	Badmington	17	08:30	13:30	Riocentro-Pavilion-4
+// BD017 session program : 
+   // M Singles: quarter-finals
+   // MW Doubles: gold medal match
+   // MW Doubles: victory ceremony
+session  	BD018	Badmington	18	08:30	13:30	Riocentro-Pavilion-4
+// BD018 session program : 
+   // W Singles: semi-finals
+   // W Doubles: bronze medal match
+   // M Doubles: bronze medal match
+   // W Doubles: gold medal match
+   // W Doubles: victory ceremony
+session  	BD019	Badmington	19	08:30	13:30	Riocentro-Pavilion-4
+// BD019 session program : 
+   // M Singles: semi-finals
+   // W Singles: bronze medal match
+   // W Singles: gold medal match
+   // W Singles: victory ceremony
+   // M Doubles: gold medal match
+   // M Doubles: victory ceremony
+session  	BD020	Badmington	20	08:30	11:00	Riocentro-Pavilion-4
+// BD020 session program : 
+   // M Singles: bronze medal match
+   // M Singles: gold medal match
+   // M Singles: victory ceremony
+
+// -------------- Basketball ---------------------
+
+session  	BK001	Basketball	6	12:00	16:00	Youth-Arena
+// BK001 session program : 
+   // W Preliminary round (2 games)
+session  	BK002	Basketball	6	14:15	16:00	Carioca-Arena-1
+// BK002 session program : 
+   // M Preliminary round
+session  	BK003	Basketball	6	17:30	21:30	Youth-Arena
+// BK003 session program : 
+   // W Preliminary round (2 games)
+session  	BK004	Basketball	6	19:00	20:45	Carioca-Arena-1
+// BK004 session program : 
+   // M Preliminary round
+session  	BK005	Basketball	6	22:30	00:15	Carioca-Arena-1
+// BK005 session program : 
+   // M Preliminary round
+session  	BK006	Basketball	7	12:00	16:00	Youth-Arena
+// BK006 session program : 
+   // W Preliminary round (2 games)
+session  	BK007	Basketball	7	14:15	16:00	Carioca-Arena-1
+// BK007 session program : 
+   // M Preliminary round
+session  	BK008	Basketball	7	17:30	21:30	Youth-Arena
+// BK008 session program : 
+   // W Preliminary round (2 games)
+session  	BK009	Basketball	7	19:00	20:45	Carioca-Arena-1
+// BK009 session program : 
+   // M Preliminary round
+session  	BK010	Basketball	7	22:30	00:15	Carioca-Arena-1
+// BK010 session program : 
+   // M Preliminary round
+session  	BK011	Basketball	8	12:00	16:00	Youth-Arena
+// BK011 session program : 
+   // W Preliminary round (2 games)
+session  	BK012	Basketball	8	14:15	16:00	Carioca-Arena-1
+// BK012 session program : 
+   // M Preliminary round
+session  	BK013	Basketball	8	17:30	21:30	Youth-Arena
+// BK013 session program : 
+   // W Preliminary round (2 games)
+session  	BK014	Basketball	8	19:00	20:45	Carioca-Arena-1
+// BK014 session program : 
+   // M Preliminary round
+session  	BK015	Basketball	8	22:30	00:15	Carioca-Arena-1
+// BK015 session program : 
+   // M Preliminary round
+session  	BK016	Basketball	9	12:15	14:00	Youth-Arena
+// BK016 session program : 
+   // W Preliminary round
+session  	BK017	Basketball	9	14:15	16:00	Carioca-Arena-1
+// BK017 session program : 
+   // M Preliminary round
+session  	BK018	Basketball	9	15:30	19:30	Youth-Arena
+// BK018 session program : 
+   // W Preliminary round (2 games)
+session  	BK019	Basketball	9	19:00	20:45	Carioca-Arena-1
+// BK019 session program : 
+   // M Preliminary round
+session  	BK020	Basketball	9	22:30	00:15	Carioca-Arena-1
+// BK020 session program : 
+   // M Preliminary round
+session  	BK021	Basketball	10	12:15	14:00	Youth-Arena
+// BK021 session program : 
+   // W Preliminary round
+session  	BK022	Basketball	10	14:15	16:00	Carioca-Arena-1
+// BK022 session program : 
+   // M Preliminary round
+session  	BK023	Basketball	10	15:30	19:30	Youth-Arena
+// BK023 session program : 
+   // W Preliminary round (2 games)
+session  	BK024	Basketball	10	19:00	20:45	Carioca-Arena-1
+// BK024 session program : 
+   // M Preliminary round
+session  	BK025	Basketball	10	22:30	00:15	Carioca-Arena-1
+// BK025 session program : 
+   // M Preliminary round
+session  	BK026	Basketball	11	12:15	14:00	Youth-Arena
+// BK026 session program : 
+   // W Preliminary round
+session  	BK027	Basketball	11	14:15	16:00	Carioca-Arena-1
+// BK027 session program : 
+   // M Preliminary round
+session  	BK028	Basketball	11	15:30	19:30	Youth-Arena
+// BK028 session program : 
+   // W Preliminary round (2 games)
+session  	BK029	Basketball	11	19:00	20:45	Carioca-Arena-1
+// BK029 session program : 
+   // M Preliminary round
+session  	BK030	Basketball	11	22:30	00:15	Carioca-Arena-1
+// BK030 session program : 
+   // M Preliminary round
+session  	BK031	Basketball	12	12:15	14:00	Youth-Arena
+// BK031 session program : 
+   // W Preliminary round
+session  	BK032	Basketball	12	14:15	16:00	Carioca-Arena-1
+// BK032 session program : 
+   // M Preliminary round
+session  	BK034	Basketball	12	15:30	19:30	Youth-Arena
+// BK034 session program : 
+   // W Preliminary round (2 games)
+session  	BK033	Basketball	12	19:00	20:45	Carioca-Arena-1
+// BK033 session program : 
+   // M Preliminary round
+session  	BK035	Basketball	12	22:30	00:15	Carioca-Arena-1
+// BK035 session program : 
+   // M Preliminary round
+session  	BK036	Basketball	13	12:15	14:00	Youth-Arena
+// BK036 session program : 
+   // W Preliminary round
+session  	BK037	Basketball	13	14:15	16:00	Carioca-Arena-1
+// BK037 session program : 
+   // M Preliminary round
+session  	BK039	Basketball	13	15:30	19:30	Youth-Arena
+// BK039 session program : 
+   // W Preliminary round (2 games)
+session  	BK038	Basketball	13	19:00	20:45	Carioca-Arena-1
+// BK038 session program : 
+   // M Preliminary round
+session  	BK040	Basketball	13	22:30	00:15	Carioca-Arena-1
+// BK040 session program : 
+   // M Preliminary round
+session  	BK041	Basketball	14	12:15	14:00	Youth-Arena
+// BK041 session program : 
+   // W Preliminary round
+session  	BK042	Basketball	14	14:15	16:00	Carioca-Arena-1
+// BK042 session program : 
+   // M Preliminary round
+session  	BK043	Basketball	14	19:00	20:45	Carioca-Arena-1
+// BK043 session program : 
+   // M Preliminary round
+session  	BK044	Basketball	14	15:30	19:30	Youth-Arena
+// BK044 session program : 
+   // W Preliminary round (2 games)
+session  	BK045	Basketball	14	22:30	00:15	Carioca-Arena-1
+// BK045 session program : 
+   // M Preliminary round
+session  	BK046	Basketball	15	14:15	16:00	Carioca-Arena-1
+// BK046 session program : 
+   // M Preliminary round
+session  	BK047	Basketball	15	19:00	20:45	Carioca-Arena-1
+// BK047 session program : 
+   // M Preliminary round
+session  	BK048	Basketball	15	22:30	00:15	Carioca-Arena-1
+// BK048 session program : 
+   // M Preliminary round
+session  	BK049	Basketball	16	11:00	12:45	Carioca-Arena-1
+// BK049 session program : 
+   // W Quarter-final
+session  	BK050	Basketball	16	14:30	16:15	Carioca-Arena-1
+// BK050 session program : 
+   // W Quarter-final
+session  	BK051	Basketball	16	18:45	20:30	Carioca-Arena-1
+// BK051 session program : 
+   // W Quarter-final
+session  	BK052	Basketball	16	22:15	00:00	Carioca-Arena-1
+// BK052 session program : 
+   // W Quarter-final
+session  	BK053	Basketball	17	11:00	12:45	Carioca-Arena-1
+// BK053 session program : 
+   // M Quarter-final
+session  	BK054	Basketball	17	14:30	16:15	Carioca-Arena-1
+// BK054 session program : 
+   // M Quarter-final
+session  	BK055	Basketball	17	18:45	20:30	Carioca-Arena-1
+// BK055 session program : 
+   // M Quarter-final
+session  	BK056	Basketball	17	22:15	00:00	Carioca-Arena-1
+// BK056 session program : 
+   // M Quarter-final
+session  	BK057	Basketball	18	15:00	17:00	Carioca-Arena-1
+// BK057 session program : 
+   // W Semi-final
+session  	BK058	Basketball	18	19:00	21:00	Carioca-Arena-1
+// BK058 session program : 
+   // W Semi-final
+session  	BK059	Basketball	19	15:30	17:30	Carioca-Arena-1
+// BK059 session program : 
+   // M Semi-final
+session  	BK060	Basketball	19	19:00	21:00	Carioca-Arena-1
+// BK060 session program : 
+   // M Semi-final
+session  	BK061	Basketball	20	11:30	13:30	Carioca-Arena-1
+// BK061 session program : 
+   // W Bronze medal game
+session  	BK062	Basketball	20	15:30	18:00	Carioca-Arena-1
+// BK062 session program : 
+   // W Gold medal game
+   // W Victory ceremony
+session  	BK063	Basketball	21	11:30	13:30	Carioca-Arena-1
+// BK063 session program : 
+   // M Bronze medal game
+session  	BK064	Basketball	21	15:45	18:15	Carioca-Arena-1
+// BK064 session program : 
+   // M Gold medal game
+   // M Victory ceremony
+
+// -------------- BeachVolleyball ---------------------
+
+session  	BW001	BeachVolleyball	6	10:00	13:50	Beach-Volleyball-Arena
+// BW001 session program : 
+   // MW Preliminaries (4 matches)
+session  	BW002	BeachVolleyball	6	15:30	19:20	Beach-Volleyball-Arena
+// BW002 session program : 
+   // MW Preliminaries (4 matches)
+session  	BW003	BeachVolleyball	6	21:00	00:50	Beach-Volleyball-Arena
+// BW003 session program : 
+   // MW Preliminaries (4 matches)
+session  	BW004	BeachVolleyball	7	10:00	13:50	Beach-Volleyball-Arena
+// BW004 session program : 
+   // MW Preliminaries (4 matches)
+session  	BW005	BeachVolleyball	7	15:30	19:20	Beach-Volleyball-Arena
+// BW005 session program : 
+   // MW Preliminaries (4 matches)
+session  	BW006	BeachVolleyball	7	21:00	00:50	Beach-Volleyball-Arena
+// BW006 session program : 
+   // MW Preliminaries (4 matches)
+session  	BW007	BeachVolleyball	8	10:00	13:50	Beach-Volleyball-Arena
+// BW007 session program : 
+   // MW Preliminaries (4 matches)
+session  	BW008	BeachVolleyball	8	15:30	19:20	Beach-Volleyball-Arena
+// BW008 session program : 
+   // MW Preliminaries (4 matches)
+session  	BW009	BeachVolleyball	8	21:00	00:50	Beach-Volleyball-Arena
+// BW009 session program : 
+   // MW Preliminaries (4 matches)
+session  	BW010	BeachVolleyball	9	10:00	13:50	Beach-Volleyball-Arena
+// BW010 session program : 
+   // MW Preliminaries (4 matches)
+session  	BW011	BeachVolleyball	9	15:30	19:20	Beach-Volleyball-Arena
+// BW011 session program : 
+   // MW Preliminaries (4 matches)
+session  	BW012	BeachVolleyball	9	21:00	00:50	Beach-Volleyball-Arena
+// BW012 session program : 
+   // MW Preliminaries (4 matches)
+session  	BW013	BeachVolleyball	10	10:00	13:50	Beach-Volleyball-Arena
+// BW013 session program : 
+   // MW Preliminaries (4 matches)
+session  	BW014	BeachVolleyball	10	15:30	19:20	Beach-Volleyball-Arena
+// BW014 session program : 
+   // MW Preliminaries (4 matches)
+session  	BW015	BeachVolleyball	10	21:00	00:50	Beach-Volleyball-Arena
+// BW015 session program : 
+   // MW Preliminaries (4 matches)
+session  	BW016	BeachVolleyball	11	10:00	13:50	Beach-Volleyball-Arena
+// BW016 session program : 
+   // MW Preliminaries (4 matches)
+session  	BW017	BeachVolleyball	11	15:30	19:20	Beach-Volleyball-Arena
+// BW017 session program : 
+   // MW Preliminaries (6 matches)
+session  	BW018	BeachVolleyball	11	21:00	00:50	Beach-Volleyball-Arena
+// BW018 session program : 
+   // MW Preliminaries (2 matches)
+   // MW Lucky loser round (4 matches)
+session  	BW019	BeachVolleyball	12	11:00	12:50	Beach-Volleyball-Arena
+// BW019 session program : 
+   // MW Round of 16 (2 matches)
+session  	BW020	BeachVolleyball	12	15:00	16:50	Beach-Volleyball-Arena
+// BW020 session program : 
+   // MW Round of 16 (2 matches)
+session  	BW021	BeachVolleyball	12	19:00	20:50	Beach-Volleyball-Arena
+// BW021 session program : 
+   // MW Round of 16 (2 matches)
+session  	BW022	BeachVolleyball	12	23:00	00:50	Beach-Volleyball-Arena
+// BW022 session program : 
+   // MW Round of 16 (2 matches)
+session  	BW023	BeachVolleyball	13	11:00	12:50	Beach-Volleyball-Arena
+// BW023 session program : 
+   // MW Round of 16 (2 matches)
+session  	BW024	BeachVolleyball	13	15:00	16:50	Beach-Volleyball-Arena
+// BW024 session program : 
+   // MW Round of 16 (2 matches)
+session  	BW025	BeachVolleyball	13	19:00	20:50	Beach-Volleyball-Arena
+// BW025 session program : 
+   // MW Round of 16 (2 matches)
+session  	BW026	BeachVolleyball	13	23:00	00:50	Beach-Volleyball-Arena
+// BW026 session program : 
+   // MW Round of 16 (2 matches)
+session  	BW027	BeachVolleyball	14	16:00	17:50	Beach-Volleyball-Arena
+// BW027 session program : 
+   // W Quarter-finals (2 matches)
+session  	BW028	BeachVolleyball	14	23:00	00:50	Beach-Volleyball-Arena
+// BW028 session program : 
+   // W Quarter-finals (2 matches)
+session  	BW029	BeachVolleyball	15	16:00	17:50	Beach-Volleyball-Arena
+// BW029 session program : 
+   // M Quarter-finals (2 matches)
+session  	BW030	BeachVolleyball	15	23:00	00:50	Beach-Volleyball-Arena
+// BW030 session program : 
+   // M Quarter-finals (2 matches)
+session  	BW031	BeachVolleyball	16	16:00	17:50	Beach-Volleyball-Arena
+// BW031 session program : 
+   // MW Semi-finals (2 matches)
+session  	BW032	BeachVolleyball	16	23:00	00:50	Beach-Volleyball-Arena
+// BW032 session program : 
+   // MW Semi-finals (2 matches)
+session  	BW033	BeachVolleyball	17	22:00	01:30	Beach-Volleyball-Arena
+// BW033 session program : 
+   // W Bronze medal match
+   // W Gold medal match
+   // W Victory ceremony
+session  	BW034	BeachVolleyball	18	22:00	01:30	Beach-Volleyball-Arena
+// BW034 session program : 
+   // M Bronze medal match
+   // M Gold medal match
+   // M Victory ceremony
+
+// -------------- Boxing ---------------------
+
+session  	BX001	Boxing	6	11:00	13:45	Riocentro-Pavilion-6
+// BX001 session program : 
+   // M Lightweight (60kg): preliminaries
+   // M Light Heavyweight (81kg): preliminaries
+   // M Heavyweight (91kg): preliminaries
+session  	BX002	Boxing	6	17:00	19:45	Riocentro-Pavilion-6
+// BX002 session program : 
+   // M Lightweight (60kg): preliminaries
+   // M Light Heavyweight (81kg): preliminaries
+   // M Heavyweight (91kg): preliminaries
+session  	BX003	Boxing	7	11:00	14:00	Riocentro-Pavilion-6
+// BX003 session program : 
+   // M Lightweight (60kg): preliminaries
+   // M Light Heavyweight (81kg): preliminaries
+   // M Heavyweight (91kg): preliminaries
+session  	BX004	Boxing	7	17:00	20:00	Riocentro-Pavilion-6
+// BX004 session program : 
+   // M Lightweight (60kg): preliminaries
+   // M Light Heavyweight (81kg): preliminaries
+   // M Heavyweight (91kg): preliminaries
+session  	BX005	Boxing	8	11:00	13:15	Riocentro-Pavilion-6
+// BX005 session program : 
+   // M Welterweight (69kg): preliminaries
+   // M Middleweight (75kg): preliminaries
+session  	BX006	Boxing	8	17:00	19:15	Riocentro-Pavilion-6
+// BX006 session program : 
+   // M Welterweight (69kg): preliminaries
+   // M Middleweight (75kg): preliminaries
+session  	BX007	Boxing	9	11:00	13:00	Riocentro-Pavilion-6
+// BX007 session program : 
+   // M Lightweight (60kg): preliminaries
+   // M Middleweight (75kg): preliminaries
+   // M Super Heavyweight (+91kg): preliminaries
+session  	BX008	Boxing	9	17:00	19:00	Riocentro-Pavilion-6
+// BX008 session program : 
+   // M Lightweight (60kg): preliminaries
+   // M Middleweight (75kg): preliminaries
+   // M Super Heavyweight (+91kg): preliminaries
+session  	BX009	Boxing	10	11:00	14:00	Riocentro-Pavilion-6
+// BX009 session program : 
+   // M Light Flyweight (49kg): quarter-finals
+   // M Bantamweight (56kg): preliminaries
+   // M Light Welterweight (64kg): preliminaries
+   // M Light Heavyweight (81kg): preliminaries
+   // M Heavyweight (91kg): quarter-finals
+session  	BX010	Boxing	10	17:00	20:00	Riocentro-Pavilion-6
+// BX010 session program : 
+   // M Light Flyweight (49kg): quarter-finals
+   // M Bantamweight (56kg): preliminaries
+   // M Light Welterweight (64kg): preliminaries
+   // M Light Heavyweight (81kg): preliminaries
+   // M Heavyweight (91kg): quarter-finals
+session  	BX011	Boxing	11	11:00	14:00	Riocentro-Pavilion-6
+// BX011 session program : 
+   // M Bantamweight (56kg): preliminaries
+   // M Light Welterweight (64kg): preliminaries
+   // M Welterweight (69kg): preliminaries
+   // M Light Heavyweight (81kg): preliminaries
+session  	BX012	Boxing	11	17:00	20:00	Riocentro-Pavilion-6
+// BX012 session program : 
+   // M Bantamweight (56kg): preliminaries
+   // M Light Welterweight (64kg): preliminaries
+   // M Welterweight (69kg): preliminaries
+   // M Light Heavyweight (81kg): preliminaries
+session  	BX013	Boxing	12	11:00	13:45	Riocentro-Pavilion-6
+// BX013 session program : 
+   // W Flyweight (51kg): preliminaries
+   // W Lightweight (60kg): preliminaries
+   // M Light Flyweight (49kg): semi-finals
+   // M Lightweight (60kg): quarter-finals
+   // M Middleweight (75kg): preliminaries
+session  	BX014	Boxing	12	17:00	19:45	Riocentro-Pavilion-6
+// BX014 session program : 
+   // W Flyweight (51kg): preliminaries
+   // W Lightweight (60kg): preliminaries
+   // M Lightweight (60kg): quarter-finals
+   // M Middleweight (75kg): preliminaries
+session  	BX015	Boxing	13	11:00	14:00	Riocentro-Pavilion-6
+// BX015 session program : 
+   // M Flyweight (52kg): preliminaries
+   // M Welterweight (69kg): quarter-finals
+   // M Heavyweight (91kg): semi-finals
+   // M Super Heavyweight (+91kg): preliminaries
+session  	BX016	Boxing	13	17:00	20:00	Riocentro-Pavilion-6
+// BX016 session program : 
+   // M Flyweight (52kg): preliminaries
+   // M Welterweight (69kg): quarter-finals
+   // M Super Heavyweight (+91kg): preliminaries
+   // M Heavyweight (91kg): semi-finals
+session  	BX017	Boxing	14	11:00	14:45	Riocentro-Pavilion-6
+// BX017 session program : 
+   // W Middleweight (75kg): preliminaries
+   // M Light Flyweight (49kg): final
+   // M Light Flyweight (49kg): victory ceremony
+   // M Bantamweight (56kg): preliminaries
+   // M Lightweight (60kg): semi-finals
+   // M Light Welterweight (64kg): preliminaries
+   // M Light Heavyweight (81kg): quarter-finals
+session  	BX018	Boxing	14	17:00	20:15	Riocentro-Pavilion-6
+// BX018 session program : 
+   // W Middleweight (75kg): preliminaries
+   // M Bantamweight (56kg): preliminaries
+   // M Lightweight (60kg): semi-finals
+   // M Light Welterweight (64kg): preliminaries
+   // M Light Heavyweight (81kg): quarter-finals
+session  	BX019	Boxing	15	11:00	13:15	Riocentro-Pavilion-6
+// BX019 session program : 
+   // W Lightweight (60kg): quarter-finals
+   // M Flyweight (52kg): preliminaries
+   // M Welterweight (69kg): semi-finals
+   // M Middleweight (75kg): preliminaries
+session  	BX020	Boxing	15	17:00	19:45	Riocentro-Pavilion-6
+// BX020 session program : 
+   // W Lightweight (60kg): quarter-finals
+   // M Flyweight (52kg): preliminaries
+   // M Welterweight (69kg): semi-finals
+   // M Middleweight (75kg): preliminaries
+   // M Heavyweight (91kg): final
+   // M Heavyweight (91kg): victory ceremony
+session  	BX021	Boxing	16	11:00	13:15	Riocentro-Pavilion-6
+// BX021 session program : 
+   // W Flyweight (51kg): quarter-finals
+   // M Bantamweight (56kg): quarter-finals
+   // M Light Welterweight (64kg): preliminaries
+   // M Light Heavyweight (81kg): semi-finals
+   // M Super Heavyweight (+91kg): quarter-finals
+session  	BX022	Boxing	16	17:00	19:45	Riocentro-Pavilion-6
+// BX022 session program : 
+   // W Flyweight (51kg): quarter-finals
+   // M Bantamweight (56kg): quarter-finals
+   // M Lightweight (60kg): final
+   // M Lightweight (60kg): victory ceremony
+   // M Light Welterweight (64kg): preliminaries
+   // M Light Heavyweight (81kg): semi-finals
+   // M Super Heavyweight (+91kg): quarter-finals
+session  	BX023	Boxing	17	14:00	17:00	Riocentro-Pavilion-6
+// BX023 session program : 
+   // W Lightweight (60kg): semi-finals
+   // W Middleweight (75kg): quarter-finals
+   // M Flyweight (52kg): quarter-finals
+   // M Welterweight (69kg): final
+   // M Welterweight (69kg): victory ceremony
+session  	BX024	Boxing	18	14:00	16:00	Riocentro-Pavilion-6
+// BX024 session program : 
+   // W Flyweight (51kg): semi-finals
+   // M Bantamweight (56kg): semi-finals
+   // M Middleweight (75kg): semi-finals
+   // M Light Heavyweight (81kg): final
+   // M Light Heavyweight (81kg): victory ceremony
+session  	BX025	Boxing	19	14:00	16:30	Riocentro-Pavilion-6
+// BX025 session program : 
+   // W Lightweight (60kg): final
+   // W Lightweight (60kg): victory ceremony
+   // W Middleweight (75kg): semi-finals
+   // M Flyweight (52kg): semi-finals
+   // M Light Welterweight (64kg): semi-finals
+   // M Super Heavyweight (+91kg): semi-finals
+session  	BX026	Boxing	20	14:00	15:30	Riocentro-Pavilion-6
+// BX026 session program : 
+   // W Flyweight (51kg): final
+   // W Flyweight (51kg): victory ceremony
+   // M Bantamweight (56kg): final
+   // M Bantamweight (56kg): victory ceremony
+   // M Middleweight (75kg): final
+   // M Middleweight (75kg): victory ceremony
+session  	BX027	Boxing	21	14:00	16:00	Riocentro-Pavilion-6
+// BX027 session program : 
+   // W Middleweight (75kg): final
+   // W Middleweight (75kg): victory ceremony
+   // M Flyweight (52kg): final
+   // M Flyweight (52kg): victory ceremony
+   // M Light Welterweight (64kg): final
+   // M Light Welterweight (64kg): victory ceremony
+   // M Super Heavyweight (+91kg): final
+   // M Super Heavyweight (+91kg): victory ceremony
+
+// -------------- Canoe-Slalom ---------------------
+
+session  	CS001	Canoe-Slalom	7	12:00	16:15	Whitewater-Stadium
+// CS001 session program : 
+   // M Canoe Single (C1): heats 1st run
+   // M Kayak (K1): heats 1st run
+   // M Canoe Single (C1): heats 2nd run
+   // M Kayak (K1): heats 2nd run
+session  	CS002	Canoe-Slalom	8	12:30	16:00	Whitewater-Stadium
+// CS002 session program : 
+   // M Canoe Double (C2): heats 1st run
+   // W Kayak (K1): heats 1st run
+   // M Canoe Double (C2): heats 2nd run
+   // W Kayak (K1): heats 2nd run
+session  	CS003	Canoe-Slalom	9	13:30	15:55	Whitewater-Stadium
+// CS003 session program : 
+   // M Canoe Single (C1): semi-final
+   // M Canoe Single (C1): final
+   // M Canoe Single (C1): victory ceremony
+session  	CS004	Canoe-Slalom	10	13:30	16:10	Whitewater-Stadium
+// CS004 session program : 
+   // M Kayak Single (K1): semi-final
+   // M Kayak Single (K1): final
+   // M Kayak Single (K1): victory ceremony
+session  	CS005	Canoe-Slalom	11	12:30	16:10	Whitewater-Stadium
+// CS005 session program : 
+   // M Canoe Double (C2): semi-final
+   // W Kayak (K1): semi-final
+   // M Canoe Double (C2): final
+   // W Kayak (K1): final
+   // M Canoe Double (C2): victory ceremony
+   // W Kayak (K1): victory ceremony
+
+
+// -------------- Canoe-Sprint ---------------------
+
+session  	CF001	Canoe-Sprint	15	09:00	11:30	Lagoa-Stadium
+// CF001 session program : 
+   // M Kayak Single (K1) 1000m: heats, semi-finals
+   // W Kayak Double (K2) 500m: heats, semi-finals
+   // W Kayak Single (K1) 200m: heats, semi-finals
+   // M Canoe Single (C1) 1000m: heats, semi-finals
+session  	CF002	Canoe-Sprint	16	09:00	10:40	Lagoa-Stadium
+// CF002 session program : 
+   // M Kayak Single (K1) 1000m: final, victory ceremony
+   // W Kayak Double (K2) 500m: final, victory ceremony
+   // W Kayak Single (K1) 200m: final, victory ceremony
+   // M Canoe Single (C1) 1000m: final, victory ceremony
+session  	CF003	Canoe-Sprint	17	09:00	11:05	Lagoa-Stadium
+// CF003 session program : 
+   // M Canoe Single (C1) 200m: heats, semi-finals
+   // M Kayak Double (K2) 1000m: heats, semi-finals
+   // W Kayak Single (K1) 500m: heats, semi-finals
+   // M Kayak Double (K2) 200m: heats, semi-finals
+session  	CF004	Canoe-Sprint	18	09:00	10:30	Lagoa-Stadium
+// CF004 session program : 
+   // M Canoe Single (C1) 200m: final, victory ceremony
+   // W Kayak Single (K1) 500m: final, victory ceremony
+   // M Kayak Double (K2) 1000m: final, victory ceremony
+   // M Kayak Double (K2) 200m: final, victory ceremony
+session  	CF005	Canoe-Sprint	19	09:00	10:45	Lagoa-Stadium
+// CF005 session program : 
+   // M Kayak Single (K1) 200m: heats, semi-finals
+   // M Canoe Double (C2)  1000m: heats, semi-finals
+   // W Kayak Four (K2) 500m: heats, semi-finals
+   // M Kayak Four (K4) 1000m: heats, semi-finals
+session  	CF006	Canoe-Sprint	20	09:00	10:20	Lagoa-Stadium
+// CF006 session program : 
+   // M Canoe Double (C2)  1000m: final, victory ceremony
+   // M Kayak Single (K1) 200m: final, victory ceremony
+   // W Kayak Four (K2) 500m: final, victory ceremony
+   // M Kayak Four (K4) 1000m: final, victory ceremony
+
+// -------------- Cycling-Track ---------------------
+
+session  	CT001	Cycling-Track	11	16:00	18:35	Rio-Olympic-Velodrome
+// CT001 session program : 
+   // M Team Sprint: qualifying
+   // W Team Pursuit: qualifying
+   // M Team Sprint: semi-finals
+   // M Team Pursuit: qualifying
+   // M Team Sprint: finals
+   // M Team Sprint: victory ceremony
+session  	CT002	Cycling-Track	12	16:00	19:05	Rio-Olympic-Velodrome
+// CT002 session program : 
+   // W Team Sprint: qualifying
+   // M Sprint 200m: qualifying
+   // M Team Pursuit: semi-finals
+   // W Team Sprint: semi-finals
+   // M Sprint 1/16: finals
+   // W Team Sprint: finals
+   // W Team Sprint: victory ceremony
+   // M Sprint 1/16: repechages
+   // M Team Pursuit: finals
+   // M Team Pursuit: victory ceremony
+session  	CT003	Cycling-Track	13	10:00	11:35	Rio-Olympic-Velodrome
+// CT003 session program : 
+   // W Keirin: round 1
+   // M Sprint 1/8: finals
+   // W Keirin: round 1and repechages
+   // M Sprint 1/8: repechages
+   // W Team Pursuit: semi-finals
+session  	CT004	Cycling-Track	13	16:00	18:20	Rio-Olympic-Velodrome
+// CT004 session program : 
+   // M Sprint: quarter-finals race 1
+   // M Sprint: race for 9th-12th places
+   // W Keirin: round 2
+   // M Sprint: quarter-finals race 2
+   // W Team Pursuit: finals
+   // M Sprint: quarter-finals race 3
+   // W Team Pursuit: victory ceremony
+   // M Sprint: semi-finals race 1
+   // W Keirin: final for 7th-12th places
+   // W Keirin: final for 1st-6th places
+   // M Sprint: semi-finals race 2
+   // W Keirin: victory ceremony
+   // M Sprint: race for 5th-8th places
+   // M Sprint: semi-finals race 3
+session  	CT005	Cycling-Track	14	16:00	19:55	Rio-Olympic-Velodrome
+// CT005 session program : 
+   // M Omnium15km: scratch race
+   // M Sprint: finals bronze race 1
+   // M Sprint: finals gold race 1
+   // W Sprint 200m: qualifying
+   // M Sprint: finals bronze race 2
+   // M Sprint: finals gold race 2
+   // M Omnium: 4km individual pursuit
+   // W Sprint: 1/16 finals
+   // M Sprint: finals bronze race 3
+   // M Sprint: finals gold race 3
+   // M Sprint: victory ceremony
+   // W Sprint: 1/16 repechages
+   // M Omnium: elimination race
+session  	CT006	Cycling-Track	15	10:00	11:25	Rio-Olympic-Velodrome
+// CT006 session program : 
+   // W Sprint: 1/8 finals
+   // M Omnium: 1km time trial
+   // W Omnium: 10km scratch race
+   // W Omnium: flying lap 250m
+session  	CT007	Cycling-Track	15	16:00	18:40	Rio-Olympic-Velodrome
+// CT007 session program : 
+   // M Omnium: flying lap 250m
+   // W Sprint: race for 9th-12th places
+   // W Omnium: 3km individual pursuit
+   // M Omnium: 45km points race
+   // M Omnium: victory ceremony
+   // W Omnium: elimination race
+session  	CT008	Cycling-Track	16	10:00	11:45	Rio-Olympic-Velodrome
+// CT008 session program : 
+   // W Sprint: quarter-finals race 1
+   // M Keirin: round 1
+   // W Sprint: quarter-finals race 2
+   // W Omnium: 500m time trial
+   // W Sprint: quarter-finals race 3
+   // M Keirin: first round repechages
+   // W Sprint: race for 5th-8th places
+session  	CT009	Cycling-Track	16	16:00	18:40	Rio-Olympic-Velodrome
+// CT009 session program : 
+   // W Sprint: semi-finals race 1
+   // W Omnium: flying lap
+   // W Sprint: semi-finals race 2
+   // M Keirin: second round
+   // W Sprint: semi-finals race 3
+   // W Omnium: 25km points race
+   // W Sprint: finals bronze race 1
+   // W Sprint: finals gold race 1
+   // W Omnium: victory ceremony
+   // W Sprint: finals bronze race 2
+   // W Sprint: finals gold race 2
+   // M Keirin: finals
+   // M Keirin: victory ceremony
+   // W Sprint: finals bronze race 3
+   // W Sprint: finals gold race 3
+   // W Sprint: victory ceremony
+
+
+
+// -------------- Cycling-Road ---------------------
+
+session  	CR001	Cycling-Road	6	09:30	16:10	Pontal
+// CR001 session program : 
+   // M Road Race
+   // M Road Race victory ceremony
+session  	CR002	Cycling-Road	7	12:30	16:10	Pontal
+// CR002 session program : 
+   // W Road Race
+   // W Road Race victory ceremony
+session  	CR003	Cycling-Road	10	09:30	16:25	Pontal
+// CR003 session program : 
+   // W Individual Time Trial
+   // M Individual Time Trial
+   // W Individual Time Trial victory ceremony
+   // M Individual Time Trial victory ceremony
+
+// -------------- Cycling-MountainBike ---------------------
+
+session  	CM001	Cycling-MountainBike	20	12:30	14:30	Mountain-Bike-Centre
+// CM001 session program : 
+   // W Cross-Country race
+   // W Cross-Country victory ceremony
+session  	CM002	Cycling-MountainBike	21	12:30	14:30	Mountain-Bike-Centre
+// CM002 session program : 
+   // M Cross-Country race
+   // M Cross-Country victory ceremony
+
+// -------------- Cycling-BMX ---------------------
+
+session  	CB001	Cycling-BMX	17	13:30	15:05	Olympic-BMX-Centre
+// CB001 session program : 
+   // M Seeding phase runs
+session  	CB002	Cycling-BMX	18	13:30	15:10	Olympic-BMX-Centre
+// CB002 session program : 
+   // W Seeding phase runs
+   // M Quarter-finals
+session  	CB003	Cycling-BMX	19	13:30	16:00	Olympic-BMX-Centre
+// CB003 session program : 
+   // W Semi-finals
+   // M Semi-finals
+   // W Final
+   // M Final
+   // W Victory ceremony
+   // M Victory ceremony
+
+// -------------- Diving ---------------------
+
+session  	DV001	Diving	7	15:00	16:10	Maria-Lenk-Aquatics-Centre
+// DV001 session program : 
+   // W Synchronised 3m Springboard : final
+   // W Synchronised 3m Springboard : victory ceremony
+session  	DV002	Diving	8	15:00	16:15	Maria-Lenk-Aquatics-Centre
+// DV002 session program : 
+   // M Synchronised 10m Platform: final
+   // M Synchronised 10m Platform: victory ceremony
+session  	DV003	Diving	9	15:00	16:10	Maria-Lenk-Aquatics-Centre
+// DV003 session program : 
+   // W Synchronised 10m Platform: final
+   // W Synchronised 10m Platform: victory ceremony
+session  	DV004	Diving	10	15:00	16:15	Maria-Lenk-Aquatics-Centre
+// DV004 session program : 
+   // M Synchronised 3m Springboard : final
+   // M Synchronised 3m Springboard : victory ceremony
+session  	DV005	Diving	12	16:00	19:00	Maria-Lenk-Aquatics-Centre
+// DV005 session program : 
+   // W 3m Springboard : preliminaries
+session  	DV006	Diving	13	16:00	17:40	Maria-Lenk-Aquatics-Centre
+// DV006 session program : 
+   // W 3m Springboard: semi-final
+session  	DV007	Diving	14	16:00	17:30	Maria-Lenk-Aquatics-Centre
+// DV007 session program : 
+   // W 3m Springboard: final
+   // W 3m Springboard: victory ceremony
+session  	DV008	Diving	15	15:15	18:45	Maria-Lenk-Aquatics-Centre
+// DV008 session program : 
+   // M 3m Springboard : preliminaries
+session  	DV009	Diving	16	10:00	11:50	Maria-Lenk-Aquatics-Centre
+// DV009 session program : 
+   // M 3m Springboard: semi-final
+session  	DV010	Diving	16	17:00	19:00	Maria-Lenk-Aquatics-Centre
+// DV010 session program : 
+   // M 3m Springboard: final
+   // M 3m Springboard: victory ceremony
+session  	DV011	Diving	17	15:00	18:10	Maria-Lenk-Aquatics-Centre
+// DV011 session program : 
+   // W 10m Platform: preliminaries
+session  	DV012	Diving	18	10:00	11:30	Maria-Lenk-Aquatics-Centre
+// DV012 session program : 
+   // W 10m Platform: semi-final
+session  	DV013	Diving	18	16:00	17:30	Maria-Lenk-Aquatics-Centre
+// DV013 session program : 
+   // W 10m Platform: final
+   // W 10m Platform: victory ceremony
+session  	DV014	Diving	19	15:00	18:10	Maria-Lenk-Aquatics-Centre
+// DV014 session program : 
+   // M 10m Platform: preliminaries
+session  	DV015	Diving	20	11:00	12:50	Maria-Lenk-Aquatics-Centre
+// DV015 session program : 
+   // M 10m Platform: semi-final
+session  	DV016	Diving	20	16:30	18:10	Maria-Lenk-Aquatics-Centre
+// DV016 session program : 
+   // M 10m Platform: final
+   // M 10m Platform: victory ceremony
+
+// -------------- Equestrian-Dressage ---------------------
+
+session  	ED001	Equestrian-Dressage	10	10:00	16:30	Olympic-Equestrian-Centre
+// ED001 session program : 
+   // MW Team Dressage: grand prix day 1
+session  	ED002	Equestrian-Dressage	11	10:00	16:30	Olympic-Equestrian-Centre
+// ED002 session program : 
+   // MW Team Dressage: grand prix day 2
+session  	ED003	Equestrian-Dressage	12	10:00	16:35	Olympic-Equestrian-Centre
+// ED003 session program : 
+   // MW Team Dressage: grand prix special
+   // MW Team Dressage: victory ceremony
+session  	ED004	Equestrian-Dressage	15	10:00	14:00	Olympic-Equestrian-Centre
+// ED004 session program : 
+   // MW Individual Dressage: grand prix freestyle
+   // MW Individual Dressage: victory ceremony
+
+// -------------- Equestrian-Eventing ---------------------
+
+session  	EC001	Equestrian-Eventing	6	10:00	16:05	Olympic-Equestrian-Centre
+// EC001 session program : 
+   // MW Individual Eventing : dressage day 1
+   // MW Team Eventing : dressage day 1
+session  	EC002	Equestrian-Eventing	7	10:00	16:05	Olympic-Equestrian-Centre
+// EC002 session program : 
+   // MW Individual Eventing : dressage day 2
+   // MW Team Eventing : dressage day 2
+session  	EC003	Equestrian-Eventing	8	10:00	15:35	Olympic-Equestrian-Centre
+// EC003 session program : 
+   // MW Individual Eventing : cross-country
+   // MW Team Eventing : cross-country
+session  	EC004	Equestrian-Eventing	9	10:00	15:35	Olympic-Equestrian-Centre
+// EC004 session program : 
+   // MW Team Eventing :jumping final
+   // MW Team Eventing : victory ceremony
+   // MW Individual Dressage: victory ceremony
+
+// -------------- Equestrian-Jumping ---------------------
+
+session  	ES001	Equestrian-Jumping	14	10:00	13:45	Olympic-Equestrian-Centre
+// ES001 session program : 
+   // MW Individual Jumping: qualification
+session  	ES002	Equestrian-Jumping	16	10:00	13:00	Olympic-Equestrian-Centre
+// ES002 session program : 
+   // MW Team Jumping: qualification
+session  	ES003	Equestrian-Jumping	17	10:00	12:45	Olympic-Equestrian-Centre
+// ES003 session program : 
+   // MW Team Jumping: finals
+   // MW Team Jumping: victory ceremony
+session  	ES004	Equestrian-Jumping	19	10:00	15:00	Olympic-Equestrian-Centre
+// ES004 session program : 
+   // MW Individual Jumping: final round A
+   // MW Individual Jumping: final round B
+   // MW Individual Jumping: victory ceremony
+
+// -------------- Fencing ---------------------
+
+session  	FE001	Fencing	6	09:00	14:15	Carioca-Arena-3
+// FE001 session program : 
+   // W Individual Epée: round of 64
+   // W Individual Epée: round of 32
+   // W Individual Epée: round of 16
+   // W Individual Epée: quarter-finals
+session  	FE002	Fencing	6	16:00	18:35	Carioca-Arena-3
+// FE002 session program : 
+   // W Individual Epée: semi-finals
+   // W Individual Epée: bronze medal match
+   // W Individual Epée: gold medal match
+   // W Individual Epée: victory ceremony
+session  	FE003	Fencing	7	09:00	14:15	Carioca-Arena-3
+// FE003 session program : 
+   // M Individual Foil: round of 64
+   // M Individual Foil: round of 32
+   // M Individual Foil: round of 16
+   // M Individual Foil: quarter-finals
+session  	FE004	Fencing	7	16:00	18:35	Carioca-Arena-3
+// FE004 session program : 
+   // M Individual Foil: semi-finals
+   // M Individual Foil: bronze medal match
+   // M Individual Foil: gold medal match
+   // M Individual Foil: victory ceremony
+session  	FE005	Fencing	8	09:00	13:05	Carioca-Arena-3
+// FE005 session program : 
+   // W Individual Sabre: round of 64
+   // W Individual Sabre: round of 32
+   // W Individual Sabre: round of 16
+   // W Individual Sabre: quarter-finals
+session  	FE006	Fencing	8	16:00	18:35	Carioca-Arena-3
+// FE006 session program : 
+   // W Individual Sabre: semi-finals
+   // W Individual Sabre: bronze medal match
+   // W Individual Sabre: gold medal match
+   // W Individual Sabre: victory ceremony
+session  	FE007	Fencing	9	09:00	14:15	Carioca-Arena-3
+// FE007 session program : 
+   // M Individual Epée: round of 64
+   // M Individual Epée: round of 32
+   // M Individual Epée: round of 16
+   // M Individual Epée: quarter-finals
+session  	FE008	Fencing	9	16:00	18:35	Carioca-Arena-3
+// FE008 session program : 
+   // M Individual Epée: semi-finals
+   // M Individual Epée: bronze medal match
+   // M Individual Epée: gold medal match
+   // M Individual Epée: victory ceremony
+session  	FE009	Fencing	10	08:30	16:00	Carioca-Arena-3
+// FE009 session program : 
+   // W Individual Foil: round of 64
+   // W Individual Foil: round of 32
+   // W Individual Foil: round of 16
+   // W Individual Foil: quarter-finals
+   // Individual Sabre: round of 64
+   // Individual Sabre: round of 32
+   // Individual Sabre: round of 16
+   // Individual Sabre: quarter-finals
+session  	FE010	Fencing	10	17:30	21:45	Carioca-Arena-3
+// FE010 session program : 
+   // W Individual Foil: semi-finals
+   // Individual Sabre: semi-finals
+   // W Individual Foil: bronze medal match
+   // Individual Sabre: bronze medal match
+   // W Individual Foil: gold medal match
+   // Individual Sabre: gold medal match
+   // W Individual Foil: victory ceremony
+   // Individual Sabre: victory ceremony
+session  	FE011	Fencing	11	09:00	15:30	Carioca-Arena-3
+// FE011 session program : 
+   // W Team Epée: round of 16
+   // W Team Epée: quarter-finals
+   // W Team Epée: classifications (5th-8th places)
+   // W Team Epée: semi-finals
+   // W Team Epée: placement (5th and 6th places)
+   // W Team Epée: placement (7th and 8th places)
+session  	FE012	Fencing	11	17:00	19:50	Carioca-Arena-2
+// FE012 session program : 
+   // W Team Epée: bronze medal match
+   // W Team Epée: gold medal match
+   // W Team Epée: victory ceremony
+session  	FE013	Fencing	12	09:00	15:30	Carioca-Arena-3
+// FE013 session program : 
+   // M Team Foil: round of 16
+   // M Team Foil: quarter-finals
+   // M Team Foil: classification (5th-8th places)
+   // M Team Foil: semi-finals
+   // M Team Foil: placement (5th and 6th places)
+   // M Team Foil: placement (7th and 8th places)
+session  	FE014	Fencing	12	17:00	19:50	Carioca-Arena-3
+// FE014 session program : 
+   // M Team Foil: bronze medal match
+   // M Team Foil: gold medal match
+   // M Team Foil: victory ceremony
+session  	FE015	Fencing	13	09:00	14:30	Carioca-Arena-3
+// FE015 session program : 
+   // W Team Sabre: round of 16
+   // W Team Sabre: quarter-finals
+   // W Team Sabre: classification (5th-8th places)
+   // W Team Sabre: semi-finals
+   // W Team Sabre: placement (5th and 6th places)
+   // W Team Sabre: placement (7th and 8th places)
+session  	FE016	Fencing	13	17:00	19:35	Carioca-Arena-3
+// FE016 session program : 
+   // W Team Sabre: bronze medal match
+   // W Team Sabre: gold medal match
+   // W Team Sabre: victory ceremony
+session  	FE017	Fencing	14	09:00	15:30	Carioca-Arena-3
+// FE017 session program : 
+   // M Team Epée: round of 16
+   // M Team Epée: quarter-finals
+   // M Team Epée: classification (5th-8th places)
+   // M Team Epée: semi-finals
+   // M Team Epée: placement (5th and 6th places)
+   // M Team Epée: placement (7th and 8th places)
+session  	FE018	Fencing	14	17:00	19:50	Carioca-Arena-3
+// FE018 session program : 
+   // M Team Epée: bronze medal match
+   // M Team Epée: gold medal match
+   // M Team Epée: victory ceremony
+
+// -------------- Football ---------------------
+// Only matches taking place in Rio de Janeiro
+
+session  	FB001	Football	3	13:00	18:00	Olympic-Stadium
+// FB001 session program : 
+   // W First round (2 matches)
+session  	FB005	Football	4	15:00	20:00	Olympic-Stadium
+// FB005 session program : 
+   // M First round (2 matches)
+session  	FB010	Football	6	19:00	00:00	Olympic-Stadium
+// FB010 session program : 
+   // W First round (2 matches)
+session  	FB012	Football	7	15:00	20:00	Olympic-Stadium
+// FB012 session program : 
+   // M First round (2 matches)
+session  	FB032	Football	16	16:00	19:00	Maracanã
+// FB032 session program : 
+   // W Semi-final
+session  	FB034	Football	17	16:00	19:00	Maracanã
+// FB034 session program : 
+   // M Semi-final
+session  	FB036	Football	18	17:30	20:30	Maracanã
+// FB036 session program : 
+   // W Gold medal match
+   // W Victory ceremony
+session  	FB038	Football	20	17:30	20:30	Maracanã
+// FB038 session program : 
+   // M Gold medal match
+   // M Victory ceremony
+
+// -------------- Gymnastics-Artistic ---------------------
+
+session  	GA001	Gymnastics-Artistic	6	10:30	13:00	Rio-Olympic-Arena
+// GA001 session program : 
+   // M Qualification: subdivision 1
+session  	GA002	Gymnastics-Artistic	6	14:30	17:00	Rio-Olympic-Arena
+// GA002 session program : 
+   // M Qualification: subdivision 2
+session  	GA003	Gymnastics-Artistic	6	18:30	21:00	Rio-Olympic-Arena
+// GA003 session program : 
+   // M Qualification: subdivision 3
+session  	GA004	Gymnastics-Artistic	7	09:45	13:00	Rio-Olympic-Arena
+// GA004 session program : 
+   // W Qualification: subdivision 1
+   // W Qualification: subdivision 2
+session  	GA005	Gymnastics-Artistic	7	14:30	16:00	Rio-Olympic-Arena
+// GA005 session program : 
+   // W Qualification: subdivision 3
+session  	GA006	Gymnastics-Artistic	7	17:30	19:00	Rio-Olympic-Arena
+// GA006 session program : 
+   // W Qualification: subdivision 4
+session  	GA007	Gymnastics-Artistic	7	20:30	22:00	Rio-Olympic-Arena
+// GA007 session program : 
+   // W Qualification: subdivision 5
+session  	GA008	Gymnastics-Artistic	8	16:00	19:00	Rio-Olympic-Arena
+// GA008 session program : 
+   // Team: final
+   // Team: victory ceremony
+session  	GA009	Gymnastics-Artistic	9	16:00	18:15	Rio-Olympic-Arena
+// GA009 session program : 
+   // W Team: final
+   // W Team: victory ceremony
+session  	GA010	Gymnastics-Artistic	10	16:00	18:45	Rio-Olympic-Arena
+// GA010 session program : 
+   // Individual All-Around: final
+   // Individual All-Around: victory ceremony
+session  	GA011	Gymnastics-Artistic	11	16:00	18:10	Rio-Olympic-Arena
+// GA011 session program : 
+   // W Individual All-Around: final
+   // W Individual All-Around: victory ceremony
+session  	GA012	Gymnastics-Artistic	14	14:00	17:00	Rio-Olympic-Arena
+// GA012 session program : 
+   // M Floor Exercise: final
+   // M Floor Exercise: victory ceremony
+   // W Vault: final
+   // W Vault: victory ceremony
+   // M Pommel Horse: final
+   // M Pommel Horse: victory ceremony
+   // W Uneven Bars: final
+   // W Uneven Bars: victory ceremony
+session  	GA013	Gymnastics-Artistic	15	14:00	16:15	Rio-Olympic-Arena
+// GA013 session program : 
+   // M Rings: final
+   // M Rings: victory ceremony
+   // W Balance Beam: final
+   // W Balance Beam: victory ceremony
+   // M Vault: final
+   // M Vault: victory ceremony
+session  	GA014	Gymnastics-Artistic	16	14:00	16:15	Rio-Olympic-Arena
+// GA014 session program : 
+   // M Parallel Bars: final
+   // M Parall	el Bars: victory ceremony
+   // W Floor Exercise: final
+   // W Floor Exercise: victory ceremony
+   // M Horizontal Bar: final
+   // M Horizontal Bar: victory ceremony
+
+// -------------- Gymnastics-Rhythmic ---------------------
+
+session  	GR001	Gymnastics-Rhythmic	19	10:00	13:30	Rio-Olympic-Arena
+// GR001 session program : 
+   // W Individual All-Around: qualification rotation 1
+   // W Individual All-Around: qualification rotation 2
+session  	GR002	Gymnastics-Rhythmic	19	14:50	17:50	Rio-Olympic-Arena
+// GR002 session program : 
+   // W Individual All-Around: qualification rotation 3
+   // W Individual All-Around: qualification rotation 4
+session  	GR003	Gymnastics-Rhythmic	20	10:00	11:10	Rio-Olympic-Arena
+// GR003 session program : 
+   // W Group All-Around: qualification rotation 1
+session  	GR004	Gymnastics-Rhythmic	20	12:40	13:50	Rio-Olympic-Arena
+// GR004 session program : 
+   // W Group All-Around: qualification rotation 2
+session  	GR005	Gymnastics-Rhythmic	20	15:20	17:50	Rio-Olympic-Arena
+// GR005 session program : 
+   // W Individual All-Around: final rotation 1
+   // W Individual All-Around: final rotation 2
+   // W Individual All-Around: final rotation 3
+   // W Individual All-Around: final rotation 4
+   // W Individual All-Around: victory ceremony
+session  	GR006	Gymnastics-Rhythmic	21	11:00	12:45	Rio-Olympic-Arena
+// GR006 session program : 
+   // W Group All-Around: final rotation 1
+   // W Group All-Around: final rotation 2
+   // W Group All-Around: victory ceremony
+
+// -------------- Gymnastics-Trampoline ---------------------
+
+session  	GT001	Gymnastics-Trampoline	12	14:00	16:15	Rio-Olympic-Arena
+// GT001 session program : 
+   // W Individual Trampoline: 1st routine
+   // W Individual Trampoline: 2nd routine
+   // W Individual Trampoline: final
+   // W Individual Trampoline: victory ceremony
+session  	GT002	Gymnastics-Trampoline	13	14:00	16:15	Rio-Olympic-Arena
+// GT002 session program : 
+   // M Individual Trampoline: 1st routine
+   // M Individual Trampoline: 2nd routine
+   // M Individual Trampoline: final
+   // M Individual Trampoline: victory ceremony
+
+// -------------- Golf ---------------------
+
+session  	GO001	Golf	11	08:00	16:30	Olympic-Golf-Course
+// GO001 session program : 
+   // M Round 1
+session  	GO002	Golf	12	08:00	16:30	Olympic-Golf-Course
+// GO002 session program : 
+   // M Round 2
+session  	GO003	Golf	13	08:00	16:30	Olympic-Golf-Course
+// GO003 session program : 
+   // M Round 3
+session  	GO004	Golf	14	07:00	16:00	Olympic-Golf-Course
+// GO004 session program : 
+   // M Final round
+   // M Victory ceremony
+session  	GO005	Golf	15	08:00	16:30	Olympic-Golf-Course
+// GO005 session program : 
+   // W Round 1
+session  	GO006	Golf	16	08:00	16:30	Olympic-Golf-Course
+// GO006 session program : 
+   // W Round 2
+session  	GO007	Golf	17	08:00	16:30	Olympic-Golf-Course
+// GO007 session program : 
+   // W Round 3
+session  	GO008	Golf	18	07:00	16:00	Olympic-Golf-Course
+// GO008 session program : 
+   // W Final round
+   // W Victory ceremony
+
+// -------------- Handball ---------------------
+
+session  	HB001	Handball	6	09:30	13:00	Future-Arena
+// HB001 session program : 
+   // Preliminaries (2 matches)
+session  	HB002	Handball	6	14:40	18:10	Future-Arena
+// HB002 session program : 
+   // Preliminaries (2 matches)
+session  	HB003	Handball	6	19:50	23:20	Future-Arena
+// HB003 session program : 
+   // Preliminaries (2 matches)
+session  	HB004	Handball	7	09:30	13:00	Future-Arena
+// HB004 session program : 
+   // Preliminaries (2 matches)
+session  	HB005	Handball	7	14:40	18:10	Future-Arena
+// HB005 session program : 
+   // Preliminaries (2 matches)
+session  	HB006	Handball	7	19:50	23:20	Future-Arena
+// HB006 session program : 
+   // Preliminaries (2 matches)
+session  	HB007	Handball	8	09:30	13:00	Future-Arena
+// HB007 session program : 
+   // Preliminaries (2 matches)
+session  	HB008	Handball	8	14:40	18:10	Future-Arena
+// HB008 session program : 
+   // Preliminaries (2 matches)
+session  	HB009	Handball	8	19:50	23:20	Future-Arena
+// HB009 session program : 
+   // Preliminaries (2 matches)
+session  	HB010	Handball	9	09:30	13:00	Future-Arena
+// HB010 session program : 
+   // Preliminaries (2 matches)
+session  	HB011	Handball	9	14:40	18:10	Future-Arena
+// HB011 session program : 
+   // Preliminaries (2 matches)
+session  	HB012	Handball	9	19:50	23:20	Future-Arena
+// HB012 session program : 
+   // Preliminaries (2 matches)
+session  	HB013	Handball	10	09:30	13:00	Future-Arena
+// HB013 session program : 
+   // Preliminaries (2 matches)
+session  	HB014	Handball	10	14:40	18:10	Future-Arena
+// HB014 session program : 
+   // Preliminaries (2 matches)
+session  	HB015	Handball	10	19:50	23:20	Future-Arena
+// HB015 session program : 
+   // Preliminaries (2 matches)
+session  	HB016	Handball	11	09:30	13:00	Future-Arena
+// HB016 session program : 
+   // Preliminaries (2 matches)
+session  	HB017	Handball	11	14:40	18:10	Future-Arena
+// HB017 session program : 
+   // Preliminaries (2 matches)
+session  	HB018	Handball	11	19:50	23:20	Future-Arena
+// HB018 session program : 
+   // Preliminaries (2 matches)
+session  	HB019	Handball	12	09:30	13:00	Future-Arena
+// HB019 session program : 
+   // Preliminaries (2 matches)
+session  	HB020	Handball	12	14:40	18:10	Future-Arena
+// HB020 session program : 
+   // Preliminaries (2 matches)
+session  	HB021	Handball	12	19:50	23:20	Future-Arena
+// HB021 session program : 
+   // Preliminaries (2 matches)
+session  	HB022	Handball	13	09:30	13:00	Future-Arena
+// HB022 session program : 
+   // Preliminaries (2 matches)
+session  	HB023	Handball	13	14:40	18:10	Future-Arena
+// HB023 session program : 
+   // Preliminaries (2 matches)
+session  	HB024	Handball	13	19:50	23:20	Future-Arena
+// HB024 session program : 
+   // Preliminaries (2 matches)
+session  	HB025	Handball	14	09:30	13:00	Future-Arena
+// HB025 session program : 
+   // Preliminaries (2 matches)
+session  	HB026	Handball	14	14:40	18:10	Future-Arena
+// HB026 session program : 
+   // Preliminaries (2 matches)
+session  	HB027	Handball	14	19:50	23:20	Future-Arena
+// HB027 session program : 
+   // Preliminaries (2 matches)
+session  	HB028	Handball	15	09:30	13:00	Future-Arena
+// HB028 session program : 
+   // Preliminaries (2 matches)
+session  	HB029	Handball	15	14:40	18:10	Future-Arena
+// HB029 session program : 
+   // Preliminaries (2 matches)
+session  	HB030	Handball	15	19:50	23:20	Future-Arena
+// HB030 session program : 
+   // Preliminaries (2 matches)
+session  	HB031	Handball	16	10:00	12:00	Future-Arena
+// HB031 session program : 
+   // Quarter-final
+session  	HB032	Handball	16	13:50	15:30	Future-Arena
+// HB032 session program : 
+   // Quarter-final
+session  	HB033	Handball	16	17:00	19:00	Future-Arena
+// HB033 session program : 
+   // Quarter-final
+session  	HB034	Handball	16	20:30	22:30	Future-Arena
+// HB034 session program : 
+   // Quarter-final
+session  	HB035	Handball	17	10:00	12:00	Future-Arena
+// HB035 session program : 
+   // Quarter-final
+session  	HB036	Handball	17	13:50	15:30	Future-Arena
+// HB036 session program : 
+   // Quarter-final
+session  	HB037	Handball	17	17:00	19:00	Future-Arena
+// HB037 session program : 
+   // Quarter-final
+session  	HB038	Handball	17	20:30	22:30	Future-Arena
+// HB038 session program : 
+   // Quarter-final
+session  	HB039	Handball	18	15:00	17:30	Future-Arena
+// HB039 session program : 
+   // Semi-final
+session  	HB040	Handball	18	20:30	22:30	Future-Arena
+// HB040 session program : 
+   // Semi-final
+session  	HB041	Handball	19	15:00	17:30	Future-Arena
+// HB041 session program : 
+   // Semi-final
+session  	HB042	Handball	19	20:30	22:30	Future-Arena
+// HB042 session program : 
+   // Semi-final
+session  	HB043	Handball	20	11:30	13:30	Future-Arena
+// HB043 session program : 
+   // Bronze medal match
+session  	HB044	Handball	20	15:30	17:45	Future-Arena
+// HB044 session program : 
+   // Gold medal match
+   // Victory Ceremony
+session  	HB045	Handball	21	10:30	12:30	Future-Arena
+// HB045 session program : 
+   // Bronze medal match
+session  	HB046	Handball	21	14:30	16:15	Future-Arena
+// HB046 session program : 
+   // Gold medal match
+   // Victory Ceremony
+
+// -------------- Hockey ---------------------
+
+session  	HO001	Hockey	6	10:00	14:15	Olympic-Hockey-Centre
+// HO001 session program : 
+   // M Preliminaries (2 matches)
+session  	HO002	Hockey	6	11:00	15:15	Olympic-Hockey-Centre
+// HO002 session program : 
+   // M Preliminaries (2 matches)
+session  	HO003	Hockey	6	17:00	21:15	Olympic-Hockey-Centre
+// HO003 session program : 
+   // W Preliminaries (2 matches)
+session  	HO004	Hockey	6	18:00	22:15	Olympic-Hockey-Centre
+// HO004 session program : 
+   // M Preliminaries (2 matches)
+session  	HO005	Hockey	7	10:00	14:15	Olympic-Hockey-Centre
+// HO005 session program : 
+   // W Preliminaries (2 matches)
+session  	HO006	Hockey	7	11:00	15:15	Olympic-Hockey-Centre
+// HO006 session program : 
+   // W Preliminaries (2 matches)
+session  	HO007	Hockey	7	17:00	21:15	Olympic-Hockey-Centre
+// HO007 session program : 
+   // M Preliminaries (2 matches)
+session  	HO008	Hockey	7	18:00	22:15	Olympic-Hockey-Centre
+// HO008 session program : 
+   // M Preliminaries (2 matches)
+session  	HO009	Hockey	8	10:00	14:15	Olympic-Hockey-Centre
+// HO009 session program : 
+   // M Preliminaries (2 matches)
+session  	HO010	Hockey	8	11:00	15:15	Olympic-Hockey-Centre
+// HO010 session program : 
+   // M Preliminarie
+   // W Preliminarie
+session  	HO011	Hockey	8	17:00	21:15	Olympic-Hockey-Centre
+// HO011 session program : 
+   // W Preliminaries (2 matches)
+session  	HO012	Hockey	8	18:00	22:15	Olympic-Hockey-Centre
+// HO012 session program : 
+   // W Preliminaries (2 matches)
+session  	HO013	Hockey	9	10:00	14:15	Olympic-Hockey-Centre
+// HO013 session program : 
+   // M Preliminaries (2 matches)
+session  	HO014	Hockey	9	11:00	15:15	Olympic-Hockey-Centre
+// HO014 session program : 
+   // M Preliminaries (2 matches)
+session  	HO015	Hockey	9	18:00	22:15	Olympic-Hockey-Centre
+// HO015 session program : 
+   // M Preliminaries (2 matches)
+session  	HO016	Hockey	10	10:00	14:15	Olympic-Hockey-Centre
+// HO016 session program : 
+   // W Preliminaries (2 matches)
+session  	HO017	Hockey	10	11:00	15:15	Olympic-Hockey-Centre
+// HO017 session program : 
+   // W Preliminaries (2 matches)
+session  	HO018	Hockey	10	17:00	21:15	Olympic-Hockey-Centre
+// HO018 session program : 
+   // M Preliminarie
+   // W Preliminarie
+session  	HO019	Hockey	10	18:00	22:15	Olympic-Hockey-Centre
+// HO019 session program : 
+   // M Preliminarie
+   // W Preliminarie
+session  	HO020	Hockey	11	10:00	14:15	Olympic-Hockey-Centre
+// HO020 session program : 
+   // M Preliminaries (2 matches)
+session  	HO021	Hockey	11	11:00	15:15	Olympic-Hockey-Centre
+// HO021 session program : 
+   // M Preliminaries (2 matches)
+session  	HO022	Hockey	11	17:00	21:15	Olympic-Hockey-Centre
+// HO022 session program : 
+   // W Preliminaries (2 matches)
+session  	HO023	Hockey	11	18:00	22:15	Olympic-Hockey-Centre
+// HO023 session program : 
+   // W Preliminaries (2 matches)
+session  	HO024	Hockey	12	10:00	14:15	Olympic-Hockey-Centre
+// HO024 session program : 
+   // M Preliminarie
+   // W Preliminarie
+session  	HO025	Hockey	12	11:00	15:15	Olympic-Hockey-Centre
+// HO025 session program : 
+   // M Preliminarie
+   // W Preliminarie
+session  	HO026	Hockey	12	17:00	21:15	Olympic-Hockey-Centre
+// HO026 session program : 
+   // M Preliminaries (2 matches)
+session  	HO027	Hockey	12	18:00	22:15	Olympic-Hockey-Centre
+// HO027 session program : 
+   // M Preliminaries (2 matches)
+session  	HO028	Hockey	13	10:00	14:15	Olympic-Hockey-Centre
+// HO028 session program : 
+   // W Preliminaries (2 matches)
+session  	HO029	Hockey	13	11:00	15:15	Olympic-Hockey-Centre
+// HO029 session program : 
+   // W Preliminaries (2 matches)
+session  	HO030	Hockey	13	18:00	22:15	Olympic-Hockey-Centre
+// HO030 session program : 
+   // W Preliminaries (2 matches)
+session  	HO031	Hockey	14	10:00	14:45	Olympic-Hockey-Centre
+// HO031 session program : 
+   // M Quarter-finals (2 matches)
+session  	HO032	Hockey	14	18:00	22:45	Olympic-Hockey-Centre
+// HO032 session program : 
+   // M Quarter-finals (2 matches)
+session  	HO033	Hockey	15	10:00	14:45	Olympic-Hockey-Centre
+// HO033 session program : 
+   // W Quarter-finals (2 matches)
+session  	HO034	Hockey	15	18:00	22:45	Olympic-Hockey-Centre
+// HO034 session program : 
+   // W Quarter-finals (2 matches)
+session  	HO035	Hockey	16	12:00	14:15	Olympic-Hockey-Centre
+// HO035 session program : 
+   // M Semi-finals
+session  	HO036	Hockey	16	17:00	19:15	Olympic-Hockey-Centre
+// HO036 session program : 
+   // M Semi-finals
+session  	HO037	Hockey	17	12:00	14:15	Olympic-Hockey-Centre
+// HO037 session program : 
+   // W Semi-finals
+session  	HO038	Hockey	17	17:00	19:15	Olympic-Hockey-Centre
+// HO038 session program : 
+   // W Semi-finals
+session  	HO039	Hockey	18	12:00	14:15	Olympic-Hockey-Centre
+// HO039 session program : 
+   // M Bronze medal match
+session  	HO040	Hockey	18	17:00	19:30	Olympic-Hockey-Centre
+// HO040 session program : 
+   // M Gold medal match
+   // M Victory ceremony
+session  	HO041	Hockey	19	12:00	14:15	Olympic-Hockey-Centre
+// HO041 session program : 
+   // W Bronze medal match
+session  	HO042	Hockey	19	17:00	19:30	Olympic-Hockey-Centre
+// HO042 session program : 
+   // W Gold medal match
+   // W  Victory ceremony
+session  	JUOO1	Judo	6	10:00	13:00	Carioca-Arena-2
+// JUOO1 session program : 
+   // W -48 kg: elimination rounds
+   // W -48 kg: quarter-finals
+   // M -60kg: elimination rounds
+   // M -60kg: quarter-finals
+session  	JUOO2	Judo	6	15:00	18:10	Carioca-Arena-2
+// JUOO2 session program : 
+   // W -48 kg: repechage
+   // W -48 kg: semi-final contests
+   // M -60kg: repechages
+   // M -60kg: semi-final contests
+   // W -48 kg: bronze medal contests
+   // M -60kg: bronze medal contests
+   // W -48 kg: gold medal contest
+   // M -60kg: gold medal contest
+   // W -48 kg: victory ceremony
+   // M -60kg: victory ceremony
+session  	JUOO3	Judo	7	10:00	13:00	Carioca-Arena-2
+// JUOO3 session program : 
+   // W -52 kg: elimination rounds
+   // W -52 kg: quarter-finals
+   // M -66 kg: elimination rounds
+   // M -66 kg: quarter-finals
+session  	JUOO4	Judo	7	15:00	18:10	Carioca-Arena-2
+// JUOO4 session program : 
+   // W -52 kg: repechages
+   // W -52 kg: semi-final contests
+   // M -66 kg: repechages
+   // M-66 kg: semi-final contests
+   // W -52 kg: bronze medal contests
+   // M-66 kg: bronze medal contests
+   // W -52 kg: gold medal contest
+   // M-66 kg: gold medal contest
+   // W -52 kg: victory ceremony
+   // M-66 kg: victory ceremony
+session  	JUOO5	Judo	8	10:00	13:00	Carioca-Arena-2
+// JUOO5 session program : 
+   // W -57 kg: elimination rounds
+   // W -57 kg: quarter-finals
+   // M -73 kg: elimination rounds
+   // M -73 kg: quarter-finals
+session  	JUOO6	Judo	8	15:00	18:10	Carioca-Arena-2
+// JUOO6 session program : 
+   // W -57 kg: repechages
+   // W -57 kg: semi-final contests
+   // M -73 kg: repechages
+   // M -73 kg: semi-final contests
+   // W -57 kg: bronze medal contests
+   // M -73 kg: bronze medal contests
+   // W -57 kg: gold medal contest
+   // M -73 kg: gold medal contest
+   // W -57 kg: victory ceremony
+   // M -73 kg: victory ceremony
+session  	JUOO7	Judo	9	10:00	13:00	Carioca-Arena-2
+// JUOO7 session program : 
+   // W -63 kg: elimination rounds
+   // W -63 kg: quarter-finals
+   // M -81kg: elimination rounds
+   // M -81kg: quarter-finals
+session  	JUOO8	Judo	9	15:00	18:10	Carioca-Arena-2
+// JUOO8 session program : 
+   // W -63 kg: repechages
+   // W -63 kg: semi-final contests
+   // M -81kg: repechages
+   // M -81kg: semi-final contests
+   // W -63 kg: bronze medal contests
+   // M -81kg: bronze medal contests
+   // W -63 kg: gold medal contest
+   // M -81kg: gold medal contest
+   // W -63 kg: victory ceremony
+   // M -81kg: victory ceremony
+session  	JUOO9	Judo	10	10:00	13:00	Carioca-Arena-2
+// JUOO9 session program : 
+   // W -70kg: elimination rounds
+   // W -70kg: quarter-finals
+   // M -90kg: elimination rounds
+   // M -90kg: quarter-finals
+session  	JUOO10	Judo	10	15:00	18:10	Carioca-Arena-2
+// JUOO10 session program : 
+   // W -70kg: repechages
+   // W -70kg: semi-final contests
+   // M -90kg: repechages
+   // M -90kg: semi-final contests
+   // W -70kg: bronze medal contests
+   // M -90kg: bronze medal contests
+   // W -70kg: gold medal contest
+   // M -90kg: gold medal contest
+   // W -70kg: victory ceremony
+   // M -90kg: victory ceremony
+session  	JUOO11	Judo	11	10:00	13:00	Carioca-Arena-2
+// JUOO11 session program : 
+   // W -78 kg: elimination rounds
+   // W -78 kg: quarter-finals
+   // M -100kg: elimination rounds
+   // M -100kg: quarter-finals
+session  	JUOO12	Judo	11	15:00	18:10	Carioca-Arena-2
+// JUOO12 session program : 
+   // W -78 kg: repechages
+   // W -78 kg: semi-final contests
+   // M -100kg: repechages
+   // M -100kg: semi-final contests
+   // W -78 kg: bronze medal contests
+   // M -100kg: bronze medal contests
+   // W -78 kg: gold medal contest
+   // M -100kg: gold medal contest
+   // W -78 kg: victory ceremony
+   // M -100kg: victory ceremony
+session  	JUOO13	Judo	12	10:00	13:00	Carioca-Arena-2
+// JUOO13 session program : 
+   // W +78 kg: elimination rounds
+   // W +78 kg: quarter-finals
+   // M +100kg: elimination rounds
+   // M +100kg: quarter-finals
+session  	JUOO14	Judo	12	15:00	18:10	Carioca-Arena-2
+// JUOO14 session program : 
+   // W +78 kg: repechages
+   // W +78 kg: semi-final contests
+   // M +100kg: repechages
+   // M +100kg: semi-final contests
+   // W +78 kg: bronze medal contests
+   // M +100kg: bronze medal contests
+   // W +78 kg: gold medal contest
+   // M +100kg: gold medal contest
+   // W +78 kg: victory ceremony
+   // M +100kg: victory ceremony
+
+// -------------- Marathon-Swimming ---------------------
+
+session  	OW001	Marathon-Swimming	15	08:00	10:30	Fort-Copacabana
+// OW001 session program : 
+   // W 10km Marathon Swimming
+   // W 10km Marathon Swimming victory ceremony
+session  	OW002	Marathon-Swimming	16	08:00	10:30	Fort-Copacabana
+// OW002 session program : 
+   // M 10km Marathon Swimming
+   // M 10km Marathon Swimming victory ceremony
+
+// -------------- Modern-Pentathlon ---------------------
+
+session  	MP001	Modern-Pentathlon	18	10:00	13:00	Youth-Arena
+// MP001 session program : 
+   // W Fencing classification round
+   // (Youth Arena)
+session  	MP002	Modern-Pentathlon	18	14:30	17:30	Youth-Arena
+// MP002 session program : 
+   // M Fencing classification round
+   // (Youth Arena)
+session  	MP003	Modern-Pentathlon	19	10:00	19:00	Deodoro-Stadium
+// MP003 session program : 
+   // W All-Venues Ticket
+   // W Swimming (Deodoro Aquatics Centre)
+   // W Fencing (Youth Arena)
+   // W Riding (Deodoro Stadium)
+   // W Combined event (Deodoro Stadium)
+   // W Victory ceremony (Deodoro Stadium)
+session  	MP004	Modern-Pentathlon	19	12:00	19:00	Deodoro-Stadium
+// MP004 session program : 
+   // W Two-Venues Ticket
+   // W Fencing (Youth Arena)
+   // W Riding (Deodoro Stadium)
+   // W Combined event (Deodoro Stadium)
+   // W Victory ceremony (Deodoro Stadium)
+session  	MP005	Modern-Pentathlon	19	15:00	19:00	Deodoro-Stadium
+// MP005 session program : 
+   // W One-Venues Ticket
+   // W Riding (Deodoro Stadium)
+   // W Combined event (Deodoro Stadium)
+   // W Victory ceremony (Deodoro Stadium)
+session  	MP006	Modern-Pentathlon	20	10:00	19:00	Deodoro-Stadium
+// MP006 session program : 
+   // M All-Venues Ticket
+   // M Swimming (Deodoro Aquatics Centre)
+   // M Fencing (Youth Arena)
+   // M Riding (Deodoro Stadium)
+   // M Combined event (Deodoro Stadium)
+   // M Victory ceremony (Deodoro Stadium)
+session  	MP007	Modern-Pentathlon	20	12:00	19:00	Deodoro-Stadium
+// MP007 session program : 
+   // M Two-Venues Ticket
+   // M Fencing (Youth Arena)
+   // M Riding (Deodoro Stadium)
+   // M Combined event (Deodoro Stadium)
+   // M Victory ceremony (Deodoro Stadium)
+session  	MP008	Modern-Pentathlon	20	15:00	19:00	Deodoro-Stadium
+// MP008 session program : 
+   // M One-Venues Ticket
+   // M Riding (Deodoro Stadium)
+   // M Combined event (Deodoro Stadium)
+   // M Victory ceremony (Deodoro Stadium)
+
+// -------------- Rowing ---------------------
+
+session  	RO001	Rowing	6	08:30	13:10	Lagoa-Stadium
+// RO001 session program : 
+   // M Quadruple Sculls: heats
+   // Quadruple Sculls: heats
+   // M Pairs: heats
+   // Double Sculls: heats
+   // M Double Sculls: heats
+   // M Lightweight Fours: heats
+   // M Single Sculls: heats
+   // Single Sculls: heats
+session  	RO002	Rowing	7	08:30	12:30	Lagoa-Stadium
+// RO002 session program : 
+   // M Pairs: repechage
+   // W Double Sculls: repechage
+   // M Lightweight Fours: repechage
+   // M Lightweight Double Sculls: heats
+   // W Lightweight Double Sculls: heats
+   // M Pairs: heats
+   // M Fours: heats
+   // M Single Sculls: repechage
+   // W Single Sculls: repechage
+session  	RO003	Rowing	8	08:30	11:10	Lagoa-Stadium
+// RO003 session program : 
+   // M Quadruple Sculls: repechage
+   // W Quadruple Sculls: repechage
+   // W Lightweight Double Sculls: repechage
+   // M Lightweight Double Sculls: repechage
+   // W Pairs: repechage
+   // M Fours: repechage
+   // W Eights: heats
+   // M Single Sculls: semi-finals E/F
+   // W Single Sculls: semi-finals E/F
+   // M Eights: heats
+session  	RO004	Rowing	9	08:30	11:50	Lagoa-Stadium
+// RO004 session program : 
+   // M Pairs: semi-finals
+   // W Double Sculls: semi-finals
+   // M Double Sculls: semi-finals
+   // M Lightweight Fours: semi-finals
+   // W Lightweight Double Sculls: semi-finals C/D
+   // M Lightweight Double Sculls: semi-finals C/D
+   // M Single Sculls: quarter-finals
+   // W Single Sculls: quarter-finals
+session  	RO005	Rowing	10	08:30	12:50	Lagoa-Stadium
+// RO005 session program : 
+   // M Quadruple Sculls: finals
+   // M Quadruple Sculls: victory ceremony
+   // W Quadruple Sculls: finals
+   // W Quadruple Sculls: victory ceremony
+   // W Lightweight Double Sculls: semi-finals
+   // M Lightweight Double Sculls: semi-finals
+   // W Pairs: semi-finals
+   // M Fours: semi-finals
+   // W Eights: repechage
+   // M Single Sculls: semi-finals C/D
+   // W Single Sculls: semi-finals C/D
+   // W Eights: repechage
+session  	RO006	Rowing	11	08:30	11:40	Lagoa-Stadium
+// RO006 session program : 
+   // M Pairs: finals
+   // M Pairs: victory ceremony
+   // W Double Sculls: finals
+   // W Double Sculls: victory ceremony
+   // M Double Sculls: finals
+   // M Double Sculls: victory ceremony
+   // M Lightweight Fours: finals
+   // M Lightweight Fours: victory ceremony
+   // W Lightweight Double Sculls: finals C/D
+   // M Lightweight Double Sculls: finals C/D
+   // W Pairs: final C
+   // M Single Sculls: semi-finals
+   // W Single Sculls: semi-finals
+session  	RO007	Rowing	12	08:30	11:40	Lagoa-Stadium
+// RO007 session program : 
+   // W Lightweight Double Sculls: finals
+   // W Lightweight Double Sculls: victory ceremony
+   // M Lightweight Double Sculls: finals
+   // M Lightweight Double Sculls: victory ceremony
+   // W Pairs: finals
+   // W Pairs: victory ceremony
+   // M Fours: finals
+   // M Fours: victory ceremony
+   // M Single Sculls: finals E/F
+   // W Single Sculls: finals E/F
+session  	RO008	Rowing	13	08:50	11:40	Lagoa-Stadium
+// RO008 session program : 
+   // W Eights: finals
+   // W Eights: victory ceremony
+   // M Single Sculls: finals
+   // M Single Sculls: victory ceremony
+   // W Single Sculls: finals
+   // W Single Sculls: victory ceremony
+   // W Eights: finals
+   // M Eights: victory ceremony
+   // M Victory Ceremony
+
+// -------------- Rugby ---------------------
+
+session  	RB001	Rugby	6	11:00	14:00	Deodoro-Stadium
+// RB001 session program : 
+   // W Pool round (6 matches)
+session  	RB002	Rugby	6	16:00	19:00	Deodoro-Stadium
+// RB002 session program : 
+   // W Pool round (6 matches)
+session  	RB003	Rugby	7	11:00	14:00	Deodoro-Stadium
+// RB003 session program : 
+   // W Pool round (6 matches)
+session  	RB004	Rugby	7	16:00	19:00	Deodoro-Stadium
+// RB004 session program : 
+   // W Placing 9th-12th
+   // W Quarter-finals
+session  	RB005	Rugby	8	12:30	15:30	Deodoro-Stadium
+// RB005 session program : 
+   // W Placing 11th and 12th
+   // W Placing 9th and 10th
+   // W Placing 5th-8th
+   // W Semi-finals
+session  	RB006	Rugby	8	17:30	20:00	Deodoro-Stadium
+// RB006 session program : 
+   // W Placing 7th and 8th
+   // W Placing 5th and 6th
+   // W Bronze medal match
+   // W Gold medal match
+   // W Victory ceremony
+session  	RB007	Rugby	9	11:00	14:00	Deodoro-Stadium
+// RB007 session program : 
+   // M Pool round (6 matches)
+session  	RB008	Rugby	9	16:00	19:00	Deodoro-Stadium
+// RB008 session program : 
+   // M Pool round (6 matches)
+session  	RB009	Rugby	10	11:00	14:00	Deodoro-Stadium
+// RB009 session program : 
+   // M Pool round (6 matches)
+session  	RB010	Rugby	10	16:00	19:00	Deodoro-Stadium
+// RB010 session program : 
+   // M Placing 9th-12th
+   // M Quarter-finals
+session  	RB011	Rugby	11	12:30	15:30	Deodoro-Stadium
+// RB011 session program : 
+   // M Placing 11th and 12th
+   // M Placing 9th and 10th
+   // M Placing 5th-8th
+   // M Semi-finals
+session  	RB012	Rugby	11	17:30	20:00	Deodoro-Stadium
+// RB012 session program : 
+   // M Placing 7th and 8th
+   // M Placing 5th and 6th
+   // M Bronze medal match
+   // M Gold medal match
+   // M Victory ceremony
+
+// -------------- Sailing ---------------------
+
+session  	SA001	Sailing	8	13:00	17:30	Marina-da-Glória
+// SA001 session program : 
+   // M RS:X
+   // W RS:X
+   // M Laser
+   // W Laser Radial
+session  	SA002	Sailing	9	13:00	17:30	Marina-da-Glória
+// SA002 session program : 
+   // M RS:X
+   // W RS:X
+   // M Laser
+   // W Laser Radial
+   // M Finn
+session  	SA003	Sailing	10	13:00	17:30	Marina-da-Glória
+// SA003 session program : 
+   // M Laser
+   // W Laser Radial
+   // M Finn
+   // M 470
+   // W 470
+   // MW Nacra17
+session  	SA004	Sailing	11	13:00	17:30	Marina-da-Glória
+// SA004 session program : 
+   // M RS:X
+   // W RS:X
+   // M Finn
+   // M 470
+   // W 470
+   // MW Nacra17
+session  	SA005	Sailing	12	13:00	17:30	Marina-da-Glória
+// SA005 session program : 
+   // M RS:X
+   // W RS:X
+   // M Laser
+   // W Laser Radial
+   // M 470
+   // W 470
+   // M 49er
+   // W 49er FX
+session  	SA006	Sailing	13	13:00	17:30	Marina-da-Glória
+// SA006 session program : 
+   // M Laser
+   // W Laser Radial
+   // M Finn
+   // M 49er
+   // W 49er FX
+   // MW Nacra17
+session  	SA007	Sailing	14	13:00	17:30	Marina-da-Glória
+// SA007 session program : 
+   // M RS:X (medal race and victory ceremony)
+   // W RS:X (medal race and victory ceremony)
+   // M Finn
+   // M 470
+   // W 470
+   // MW Nacra17
+session  	SA008	Sailing	15	13:00	17:30	Marina-da-Glória
+// SA008 session program : 
+   // M Laser (medal race and victory ceremony)
+   // W Laser Radial (medal race and victory ceremony)
+   // M 470
+   // W 470
+   // M 49er
+   // W 49er FX
+session  	SA009	Sailing	16	13:00	17:30	Marina-da-Glória
+// SA009 session program : 
+   // M Finn (medal race and victory ceremony)
+   // M 49er
+   // W 49er FX
+   // MW Nacra17 (medal race and victory ceremony)
+session  	SA010	Sailing	17	13:00	17:30	Marina-da-Glória
+// SA010 session program : 
+   // M 470(medal race and victory ceremony)
+   // W 470(medal race and victory ceremony)
+session  	SA011	Sailing	18	13:00	17:30	Marina-da-Glória
+// SA011 session program : 
+   // M 49er (medal race and victory ceremony)
+   // W 49er FX (medal race and victory ceremony)
+
+// -------------- Shooting ---------------------
+
+session  	SO001	Shooting	6	08:30	16:30	Olympic-Shooting-Centre
+// SO001 session program : 
+   // W 10m Air Rifle: qualifications
+   // M 10m Air Pistol: qualifications
+   // W 10m Air Rifle: final
+   // 10m Air Rifle: victory ceremony
+   // M 10m Air Pistol: final
+   // M 10m Air Pistol: victory ceremony
+session  	SO002	Shooting	7	09:00	16:30	Olympic-Shooting-Centre
+// SO002 session program : 
+   // W 10m Air Pistol: qualification
+   // W Trap: qualifications
+   // M Trap: qualification day 1
+   // W Trap: final
+   // W Trap: victory ceremony
+   // W 10m Air Pistol: final
+   // W 10m Air Pistol: victory ceremony
+session  	SO003	Shooting	8	09:00	16:30	Olympic-Shooting-Centre
+// SO003 session program : 
+   // M 10m Air Rifle: qualifications
+   // M Trap: qualification day 2
+   // M Trap: final
+   // M Trap: victory ceremony
+   // M 10m Air Rifle: final
+   // M 10m Air Rifle: victory ceremony
+session  	SO004	Shooting	9	09:00	17:00	Olympic-Shooting-Centre
+// SO004 session program : 
+   // W 25m Pistol: qualifications
+   // W 25m Pistol: final
+   // W 25m Pistol: victory ceremony
+session  	SO005	Shooting	10	09:00	16:30	Olympic-Shooting-Centre
+// SO005 session program : 
+   // M Double Trap: qualifications
+   // M 50m Pistol: qualifications
+   // M Double Trap: final
+   // M Double Trap: victory ceremony
+   // M 50m Pistol: final
+   // M 50m Pistol: victory ceremony
+session  	SO006	Shooting	11	09:00	13:30	Olympic-Shooting-Centre
+// SO006 session program : 
+   // W 50m Rifle 3 Positions: qualifications
+   // W 50m Rifle 3 Positions: final
+   // W 50m Rifle 3 Positions: victory ceremony
+session  	SO007	Shooting	12	09:00	16:30	Olympic-Shooting-Centre
+// SO007 session program : 
+   // M 50m Rifle Prone: qualifications
+   // W Skeet: qualifications
+   // M Skeet: qualification day 1
+   // M 25m Rapid Fire Pistol: qualification stage 1
+   // W Skeet: final
+   // W Skeet: victory ceremony
+   // M 50m Rifle Prone: final
+   // M 50m Rifle Prone: victory ceremony
+session  	SO008	Shooting	13	09:00	16:45	Olympic-Shooting-Centre
+// SO008 session program : 
+   // M 25m Rapid Fire Pistol: qualification stage 2
+   // M Skeet: qualification day 2
+   // M Skeet: final
+   // M Skeet: victory ceremony
+   // M 25m Rapid Fire Pistol: final
+   // M 25m Rapid Fire Pistol: victory ceremony
+session  	SO009	Shooting	14	09:00	14:30	Olympic-Shooting-Centre
+// SO009 session program : 
+   // M 50m Rifle 3 Positions: qualification
+   // M 50m Rifle 3 Positions: final
+   // M 50m Rifle 3 Positions: victory ceremony
+
+// -------------- Swimming ---------------------
+
+session  	SW001	Swimming	6	13:00	15:30	Olympic-Aquatics-Stadium
+// SW001 session program : 
+   // M 400m Individual Medley: heats
+   // W 100m Butterfly: heats
+   // M 400m Freestyle: heats
+   // W 400m Individual Medley: heats
+   // M 100m Breaststroke: heats
+   // W 4 x 100m Freestyle Relay: heats
+session  	SW002	Swimming	6	22:00	23:55	Olympic-Aquatics-Stadium
+// SW002 session program : 
+   // M 400m Individual Medley: final
+   // W 100m Butterfly: semi-finals
+   // M 400m Freestyle: final
+   // M 400m Individual Medley: victory ceremony
+   // W 400m Individual Medley: final
+   // M 400m Freestyle: victory ceremony
+   // M 100m Breaststroke: semi-finals
+   // W 400m Individual Medley: victory ceremony
+   // W 4 x 100m Freestyle Relay: final
+   // W 4 x 100m Freestyle Relay: victory ceremony
+session  	SW003	Swimming	7	13:00	15:20	Olympic-Aquatics-Stadium
+// SW003 session program : 
+   // W 100m Backstroke: heats
+   // M 200m Freestyle: heats
+   // W 100m Breaststroke: heats
+   // M 100m Backstroke: heats
+   // W 400m Freestyle: heats
+   // M 4 x 100m Freestyle Relay: heats
+session  	SW004	Swimming	7	22:00	00:15	Olympic-Aquatics-Stadium
+// SW004 session program : 
+   // W 100m Butterfly: final
+   // M 200m Freestyle: semi-finals
+   // W 100m Breaststroke: semi-finals
+   // W 100m Butterfly: victory ceremony
+   // M 100m Breaststroke: final
+   // W 400m Freestyle: final
+   // M 100m Backstroke: semi-finals
+   // M 100m Breaststroke: victory ceremony
+   // W 100m Backstroke: semi-finals
+   // M 4 x 100m Freestyle Relay: final
+   // W 400m Freestyle: victory ceremony
+   // M 4 x 100m Freestyle Relay: victory ceremony
+session  	SW005	Swimming	8	13:00	14:15	Olympic-Aquatics-Stadium
+// SW005 session program : 
+   // 200m Freestyle: heats
+   // M 200m Butterfly: heats
+   // 200m Individual Medley: heats
+session  	SW006	Swimming	8	22:00	00:00	Olympic-Aquatics-Stadium
+// SW006 session program : 
+   // W 200m Freestyle: semi-finals
+   // M 200m Freestyle: final
+   // W 100m Backstroke: final
+   // M 100m Backstroke: final
+   // M 200m Freestyle: victory ceremony
+   // W 100m Breaststroke: final
+   // W 100m Backstroke: victory ceremony
+   // M 200m Butterfly: semi-finals
+   // M 100m Backstroke: victory ceremony
+   // W 200m Individual Medley: semi-finals
+   // W 100m Breaststroke: victory ceremony
+session  	SW007	Swimming	9	13:00	14:40	Olympic-Aquatics-Stadium
+// SW007 session program : 
+   // M 100m Freestyle: heats
+   // W 200m Butterfly: heats
+   // M 200m Breaststroke: heats
+   // M 4 x 200m Freestyle Relay: heats
+session  	SW008	Swimming	9	22:00	00:10	Olympic-Aquatics-Stadium
+// SW008 session program : 
+   // M 100m Freestyle: semi-finals
+   // W 200m Freestyle: final
+   // M 200m Butterfly: final
+   // W 200m Butterfly: semi-finals
+   // W 200m Freestyle: victory ceremony
+   // M 200m Breaststroke: semi-finals
+   // M 200m Butterfly: victory ceremony
+   // W 200m Individual Medley: final
+   // M 4 x 200m Freestyle Relay: final
+   // W 200m Individual Medley: victory ceremony
+   // M 4 x 200m Free Relay: victory ceremony
+session  	SW009	Swimming	10	13:00	15:05	Olympic-Aquatics-Stadium
+// SW009 session program : 
+   // W 100m Freestyle: heats
+   // M 200m Backstroke: heats
+   // W 200m Breaststroke: heats
+   // M 200m Individual Medley: heats
+   // W 4 x 200m Freestyle Relay: heats
+session  	SW010	Swimming	10	22:00	00:25	Olympic-Aquatics-Stadium
+// SW010 session program : 
+   // M 200m Breaststroke: final
+   // W 100m Freestyle: semi-finals
+   // M 200m Backstroke: semi-finals
+   // M 200m Breaststroke: victory ceremony
+   // W 200m Butterfly: final
+   // M 100m Freestyle: final
+   // W 200m Breaststroke: semi-finals
+   // M 200m Individual Medley: semi-finals
+   // W 200m Butterfly: victory ceremony
+   // W 4 x 200m Freestyle Relay: final
+   // M 100m Freestyle: victory ceremony
+   // W 4 x 200m Freestyle Relay: victory ceremony
+session  	SW011	Swimming	11	13:00	15:15	Olympic-Aquatics-Stadium
+// SW011 session program : 
+   // M 50m Freestyle: heats
+   // W 800m Freestyle: heats
+   // M 100m Butterfly: heats
+   // W 200m Backstroke: heats
+session  	SW012	Swimming	11	22:00	23:55	Olympic-Aquatics-Stadium
+// SW012 session program : 
+   // M 50m Freestyle: semi-finals
+   // W 200m Breaststroke: final
+   // M 200m Backstroke: final
+   // W 200m Backstroke: semi-finals
+   // W 200m Breaststroke: victory ceremony
+   // M 200m Individual Medley: final
+   // M 200m Backstroke: victory ceremony
+   // W 100m Freestyle: final
+   // M 200m Individual Medley: victory ceremony
+   // M 100m Butterfly: semi-finals
+   // W 100m Freestyle: victory ceremony
+session  	SW013	Swimming	12	13:00	15:20	Olympic-Aquatics-Stadium
+// SW013 session program : 
+   // W 50m Freestyle: heats
+   // M 1500m Freestyle: heats
+   // W 4 x 100m Medley Relay: heats
+   // M 4 x 100m Medley Relay: heats
+session  	SW014	Swimming	12	22:00	23:30	Olympic-Aquatics-Stadium
+// SW014 session program : 
+   // W 200m Backstroke: final
+   // M 100m Butterfly: final
+   // W 800m Freestyle: final
+   // W 200m Backstroke: victory ceremony
+   // M 50m Freestyle: final
+   // M 100m Butterfly: victory ceremony
+   // W 50m Freestyle: semi-finals
+   // W 800m Freestyle: victory ceremony
+   // M 50m Freestyle: victory ceremony
+session  	SW015	Swimming	13	22:00	23:40	Olympic-Aquatics-Stadium
+// SW015 session program : 
+   // W 50m Freestyle: final
+   // M 1500m Freestyle: final
+   // W 50m Freestyle: victory ceremony
+   // W 4 x 100m Medley Relay: final
+   // M 1500m Freestyle: victory ceremony
+   // M 4 x 100m Medley Relay: final
+   // W 4 x 100m Medley Relay: victory ceremony
+   // M 4 x 100m Medley Relay: victory ceremony
+
+// -------------- Synchronised-Swimming ---------------------
+
+session  	SY001	Synchronised-Swimming	14	11:00	13:10	Maria-Lenk-Aquatics-Centre
+// SY001 session program : 
+   // W Duets free routine
+session  	SY002	Synchronised-Swimming	15	11:00	12:40	Maria-Lenk-Aquatics-Centre
+// SY002 session program : 
+   // W Duets technical routine
+session  	SY003	Synchronised-Swimming	16	14:00	15:30	Maria-Lenk-Aquatics-Centre
+// SY003 session program : 
+   // W Duets: free routine, final
+   // W Duets: victory ceremony
+session  	SY004	Synchronised-Swimming	17	13:00	13:45	Maria-Lenk-Aquatics-Centre
+// SY004 session program : 
+   // W Team technical routine
+session  	SY005	Synchronised-Swimming	18	12:00	13:30	Maria-Lenk-Aquatics-Centre
+// SY005 session program : 
+   // W Teams: free routine
+   // W Teams: victory ceremony
+
+// -------------- Table-Tennis ---------------------
+
+session  	TT001	Table-Tennis	6	09:00	12:45	Riocentro-Pavilion-3
+// TT001 session program : 
+   // W Singles: preliminaries
+   // M Singles: preliminaries
+   // W Singles: round 1
+session  	TT002	Table-Tennis	6	14:30	17:30	Riocentro-Pavilion-3
+// TT002 session program : 
+   // W Singles: round 1
+   // M Singles: round 1
+session  	TT003	Table-Tennis	6	19:00	22:00	Riocentro-Pavilion-3
+// TT003 session program : 
+   // M Singles: round 1
+   // W Singles: round 2
+session  	TT004	Table-Tennis	7	09:00	12:00	Riocentro-Pavilion-3
+// TT004 session program : 
+   // W Singles: round 2
+   // M Singles: round 2
+session  	TT005	Table-Tennis	7	13:30	16:30	Riocentro-Pavilion-3
+// TT005 session program : 
+   // W Singles: round 2
+   // M Singles: round 2
+session  	TT006	Table-Tennis	7	18:00	22:00	Riocentro-Pavilion-3
+// TT006 session program : 
+   // W Singles: round 3
+   // M Singles: round 3
+session  	TT007	Table-Tennis	8	10:00	14:00	Riocentro-Pavilion-3
+// TT007 session program : 
+   // W Singles: round 3
+   // M Singles: round 3
+session  	TT008	Table-Tennis	8	16:00	18:00	Riocentro-Pavilion-3
+// TT008 session program : 
+   // W Singles: round 4
+   // M Singles: round 4
+session  	TT009	Table-Tennis	8	20:30	22:30	Riocentro-Pavilion-3
+// TT009 session program : 
+   // W Singles: round 4
+   // M Singles: round 4
+session  	TT010	Table-Tennis	9	10:00	14:00	Riocentro-Pavilion-3
+// TT010 session program : 
+   // W Singles: quarter-finals
+session  	TT011	Table-Tennis	9	16:00	18:00	Riocentro-Pavilion-3
+// TT011 session program : 
+   // M Singles: quarter-finals
+session  	TT012	Table-Tennis	9	20:30	22:30	Riocentro-Pavilion-3
+// TT012 session program : 
+   // M Singles: quarter-finals
+session  	TT013	Table-Tennis	10	10:00	12:00	Riocentro-Pavilion-3
+// TT013 session program : 
+   // M Singles: semi-finals
+session  	TT014	Table-Tennis	10	20:30	22:45	Riocentro-Pavilion-3
+// TT014 session program : 
+   // W Singles: bronze medal match
+   // W Singles: gold medal match
+   // W Singles: victory ceremony
+session  	TT015	Table-Tennis	11	10:00	12:00	Riocentro-Pavilion-3
+// TT015 session program : 
+   // W Singles: semi-finals
+session  	TT016	Table-Tennis	11	20:30	22:45	Riocentro-Pavilion-3
+// TT016 session program : 
+   // W Singles: bronze medal match
+   // W Singles: gold medal match
+   // W Singles: victory ceremony
+session  	TT017	Table-Tennis	12	10:00	13:00	Riocentro-Pavilion-3
+// TT017 session program : 
+   // W Team: round 1(4 team matches)
+session  	TT018	Table-Tennis	12	15:00	18:00	Riocentro-Pavilion-3
+// TT018 session program : 
+   // W Team: round 1(4 team matches)
+session  	TT019	Table-Tennis	12	19:30	22:30	Riocentro-Pavilion-3
+// TT019 session program : 
+   // M Team: round 1(4 team matches)
+session  	TT020	Table-Tennis	13	10:00	13:00	Riocentro-Pavilion-3
+// TT020 session program : 
+   // W Team: quarter-finals (2 team matches)
+session  	TT021	Table-Tennis	13	15:00	18:00	Riocentro-Pavilion-3
+// TT021 session program : 
+   // M Team: round 1(4 team matches)
+session  	TT022	Table-Tennis	13	19:30	22:30	Riocentro-Pavilion-3
+// TT022 session program : 
+   // W Team: quarter-finals (2 team matches)
+session  	TT023	Table-Tennis	14	10:00	13:00	Riocentro-Pavilion-3
+// TT023 session program : 
+   // M Team: quarter-finals (2 team matches)
+session  	TT024	Table-Tennis	14	15:00	18:00	Riocentro-Pavilion-3
+// TT024 session program : 
+   // M Team: quarter-finals (2 team matches)
+session  	TT025	Table-Tennis	14	19:30	22:30	Riocentro-Pavilion-3
+// TT025 session program : 
+   // W Team: semi-final 1
+session  	TT026	Table-Tennis	15	10:00	13:00	Riocentro-Pavilion-3
+// TT026 session program : 
+   // W Team: semi-final 2
+session  	TT027	Table-Tennis	15	15:00	18:00	Riocentro-Pavilion-3
+// TT027 session program : 
+   // M Team: semi-final 1
+session  	TT028	Table-Tennis	15	19:30	22:30	Riocentro-Pavilion-3
+// TT028 session program : 
+   // M Team: semi-final 2
+session  	TT029	Table-Tennis	16	11:00	14:00	Riocentro-Pavilion-3
+// TT029 session program : 
+   // W Team: bronze medal match
+session  	TT030	Table-Tennis	16	19:30	22:45	Riocentro-Pavilion-3
+// TT030 session program : 
+   // W Team: gold medal match
+   // W Team: victory ceremony
+session  	TT031	Table-Tennis	17	11:00	14:00	Riocentro-Pavilion-3
+// TT031 session program : 
+   // M Team: bronze medal match
+session  	TT032	Table-Tennis	17	19:30	22:45	Riocentro-Pavilion-3
+// TT032 session program : 
+   // M Team: gold medal match
+   // M Team: victory ceremony
+
+// -------------- Taekwondo ---------------------
+
+session  	TK001	Taekwondo	17	09:00	13:00	Carioca-Arena-3
+// TK001 session program : 
+   // W -49kg: preliminary round
+   // M -58kg: preliminary round
+session  	TK002	Taekwondo	17	15:00	18:00	Carioca-Arena-3
+// TK002 session program : 
+   // W -49kg: quarter-finals
+   // M -58kg: quarter-finals
+   // W -49kg: semi-finals
+   // M-58kg: semi-finals
+session  	TK003	Taekwondo	17	20:00	23:05	Carioca-Arena-3
+// TK003 session program : 
+   // W -49kg: repechages
+   // M-58kg: repechages
+   // W -49kg: bronze medal contest
+   // M-58kg: bronze medal contest
+   // W -49kg: gold medal contest
+   // W -49kg: victory ceremony
+   // M-58kg: gold medal contest
+   // M-58kg: victory ceremony
+session  	TK004	Taekwondo	18	09:00	13:00	Carioca-Arena-3
+// TK004 session program : 
+   // W -57kg: preliminary round
+   // M-68kg: preliminary round
+session  	TK005	Taekwondo	18	15:00	18:00	Carioca-Arena-3
+// TK005 session program : 
+   // 
+   // W -57kg: quarter-finals
+   // M -68kg: quarter-finals
+   // W -57kg: semi-finals
+   // M-68kg: semi-finals
+session  	TK006	Taekwondo	18	20:00	23:05	Carioca-Arena-3
+// TK006 session program : 
+   // W -57kg: repechages
+   // M-68kg: repechages
+   // W -57kg: bronze medal contest
+   // M-68kg: bronze medal contest
+   // W -57kg: gold medal contest
+   // W -57kg: victory ceremony
+   // M -68kg: gold medal contest
+   // M -68kg: victory ceremony
+session  	TK007	Taekwondo	19	09:00	13:00	Carioca-Arena-3
+// TK007 session program : 
+   // W -67kg: preliminary round
+   // M -80kg: preliminary round
+session  	TK008	Taekwondo	19	15:00	18:00	Carioca-Arena-3
+// TK008 session program : 
+   // W -67kg: quarter-finals
+   // M -80kg: quarter-finals
+   // W -67kg: semi-finals
+   // M -80kg: semi-finals
+session  	TK009	Taekwondo	19	20:00	23:05	Carioca-Arena-3
+// TK009 session program : 
+   // W -67kg: repechages
+   // M -80kg: repechages
+   // W -67kg: bronze medal contest
+   // M -80kg: bronze medal contest
+   // W -67kg: gold medal contest
+   // W -67kg: victory ceremony
+   // M -80kg: gold medal contest
+   // M -80kg: victory ceremony
+session  	TK010	Taekwondo	20	09:00	13:00	Carioca-Arena-3
+// TK010 session program : 
+   // W +67kg: preliminary round
+   // M +80kg: preliminary round
+session  	TK011	Taekwondo	20	15:00	18:00	Carioca-Arena-3
+// TK011 session program : 
+   // W +67kg: quarter-finals
+   // M +80kg: quarter-finals
+   // W +67kg: semi-finals
+   // M +80kg: semi-finals
+session  	TK012	Taekwondo	20	20:00	23:05	Carioca-Arena-3
+// TK012 session program : 
+   // W +67kg: repechages
+   // M +80kg: repechages
+   // W +67kg: bronze medal contest
+   // M +80kg: bronze medal contest
+   // W +67kg: gold medal contest
+   // W +67kg: victory ceremony
+   // M +80kg: gold medal contest
+   // M +80kg: victory ceremony
+
+// -------------- Tennis ---------------------
+
+session  	TE001	Tennis	6	10:45	16:30	Olympic-Tennis-Centre-Center-Court
+// TE001 session program : 
+   // M Singles: round 1
+   // W Singles: round 1
+   // M Doubles: round 1
+   // W Doubles: round 1
+session  	TE002	Tennis	6	11:00	20:00	Olympic-Tennis-Centre-Court-1
+// TE002 session program : 
+   // M Singles: round 1
+   // W Singles: round 1
+   // M Doubles: round 1
+   // W Doubles: round 1
+session  	TE003	Tennis	6	10:45	16:30	Olympic-Tennis-Centre-Court-2
+// TE003 session program : 
+   // M Singles: round 1
+   // W Singles: round 1
+   // M Doubles: round 1
+   // W Doubles: round 1
+session  	TE004	Tennis	6	11:00	20:00	Olympic-Tennis-Centre-Court-3to9
+// TE004 session program : 
+   // M Singles: round 1
+   // W Singles: round 1
+   // M Doubles: round 1
+   // W Doubles: round 1
+session  	TE005	Tennis	6	18:45	23:00	Olympic-Tennis-Centre-Center-Court
+// TE005 session program : 
+   // M Singles: round 1
+   // W Singles: round 1
+   // M Doubles: round 1
+   // W Doubles: round 1
+session  	TE006	Tennis	7	10:45	16:30	Olympic-Tennis-Centre-Center-Court
+// TE006 session program : 
+   // M Singles: round 1
+   // W Singles: round 1
+   // M Doubles: round 1
+   // W Doubles: round 1
+session  	TE007	Tennis	7	11:00	20:00	Olympic-Tennis-Centre-Court-1
+// TE007 session program : 
+   // M Singles: round 1
+   // W Singles: round 1
+   // M Doubles: round 1
+   // W Doubles: round 1
+session  	TE008	Tennis	7	11:00	20:00	Olympic-Tennis-Centre-Court-2
+// TE008 session program : 
+   // M Singles: round 1
+   // W Singles: round 1
+   // M Doubles: round 1
+   // W Doubles: round 1
+session  	TE009	Tennis	7	11:00	20:00	Olympic-Tennis-Centre-Court-3to9
+// TE009 session program : 
+   // M Singles: round 1
+   // W Singles: round 1
+   // M Doubles: round 1
+   // W Doubles: round 1
+session  	TE010	Tennis	7	18:45	23:00	Olympic-Tennis-Centre-Center-Court
+// TE010 session program : 
+   // M Singles: round 1
+   // W Singles: round 1
+   // M Doubles: round 1
+   // W Doubles: round 1
+session  	TE011	Tennis	8	10:45	16:30	Olympic-Tennis-Centre-Center-Court
+// TE011 session program : 
+   // M Singles: round 2
+   // W Singles: round 2
+   // M Doubles: round 2
+   // W Doubles: round 2
+session  	TE012	Tennis	8	11:00	20:00	Olympic-Tennis-Centre-Court-1
+// TE012 session program : 
+   // M Singles: round 2
+   // W Singles: round 2
+   // M Doubles: round 2
+   // W Doubles: round 2
+session  	TE013	Tennis	8	11:00	20:00	Olympic-Tennis-Centre-Court-2
+// TE013 session program : 
+   // M Singles: round 2
+   // W Singles: round 2
+   // M Doubles: round 2
+   // W Doubles: round 2
+session  	TE014	Tennis	8	11:00	20:00	Olympic-Tennis-Centre-Court-3to9
+// TE014 session program : 
+   // M Singles: round 2
+   // W Singles: round 2
+   // M Doubles: round 2
+   // W Doubles: round 2
+session  	TE015	Tennis	8	18:45	23:00	Olympic-Tennis-Centre-Center-Court
+// TE015 session program : 
+   // M Singles: round 2
+   // W Singles: round 2
+   // M Doubles: round 2
+   // W Doubles: round 2
+session  	TE016	Tennis	9	10:45	16:30	Olympic-Tennis-Centre-Center-Court
+// TE016 session program : 
+   // M Singles: round 2
+   // W Singles: round 3
+   // M Doubles: quarter-finals
+   // W Doubles: round 2
+   // W Doubles: quarter-finals
+session  	TE017	Tennis	9	11:00	20:00	Olympic-Tennis-Centre-Court-1
+// TE017 session program : 
+   // M Singles: round 2
+   // W Singles: round 3
+   // M Doubles: quarter-finals
+   // W Doubles: round 2
+   // W Doubles: quarter-finals
+session  	TE018	Tennis	9	11:00	20:00	Olympic-Tennis-Centre-Court-2
+// TE018 session program : 
+   // M Singles: round 2
+   // W Singles: round 3
+   // M Doubles: quarter-finals
+   // W Doubles: round 2
+   // W Doubles: quarter-finals
+session  	TE019	Tennis	9	11:00	20:00	Olympic-Tennis-Centre-Court-3to9
+// TE019 session program : 
+   // M Singles: round 2
+   // W Singles: round 3
+   // M Doubles: quarter-finals
+   // W Doubles: round 2
+   // W Doubles: quarter-finals
+session  	TE020	Tennis	9	18:45	23:00	Olympic-Tennis-Centre-Center-Court
+// TE020 session program : 
+   // M Singles: round 2
+   // W Singles: round 3
+   // M Doubles: quarter-finals
+   // W Doubles: round 2
+   // W Doubles: quarter-finals
+session  	TE021	Tennis	10	10:45	16:30	Olympic-Tennis-Centre-Center-Court
+// TE021 session program : 
+   // M Singles: round 3
+   // W Singles: quarter-finals
+   // M Doubles: semi-finals
+   // W Doubles: quarter-finals
+session  	TE022	Tennis	10	11:00	20:00	Olympic-Tennis-Centre-Court-1
+// TE022 session program : 
+   // M Singles: round 3
+   // W Singles: quarter-finals
+   // M Doubles: semi-finals
+   // W Doubles: quarter-finals
+session  	TE023	Tennis	10	11:00	20:00	Olympic-Tennis-Centre-Court-2
+// TE023 session program : 
+   // M Singles: round 3
+   // W Singles: quarter-finals
+   // M Doubles: semi-finals
+   // W Doubles: quarter-finals
+   // MW Doubles: quarter-finals
+session  	TE024	Tennis	10	11:00	20:00	Olympic-Tennis-Centre-Court-3to9
+// TE024 session program : 
+   // W Singles: round 3
+   // MW Doubles: round 1
+session  	TE025	Tennis	10	18:45	23:00	Olympic-Tennis-Centre-Center-Court
+// TE025 session program : 
+   // M Singles: round 3
+   // W Singles: quarter-finals
+   // M Doubles: semi-finals
+   // MW Doubles: round 1
+session  	TE026	Tennis	11	12:00	20:00	Olympic-Tennis-Centre-Center-Court
+// TE026 session program : 
+   // M Singles: quarter-finals
+   // W Singles: semi-finals
+   // W Doubles: semi-finals
+   // MW Doubles: quarter-finals
+session  	TE027	Tennis	11	12:00	20:00	Olympic-Tennis-Centre-Court-1
+// TE027 session program : 
+   // M Singles: quarter-finals
+   // W Doubles: semi-finals
+   // W Doubles: quarter-finals
+session  	TE028	Tennis	11	12:00	20:00	Olympic-Tennis-Centre-Court-2
+// TE028 session program : 
+   // W Doubles: semi-finals
+   // MW Doubles: quarter-finals
+session  	TE029	Tennis	13	12:00	20:00	Olympic-Tennis-Centre-Center-Court
+// TE029 session program : 
+   // M Singles: quarter-finals
+   // M Doubles: gold medal match
+   // M Doubles: victory ceremony
+session  	TE030	Tennis	12	12:00	20:00	Olympic-Tennis-Centre-Court-1
+// TE030 session program : 
+   // M Doubles: bronze medal match
+   // MW Doubles: semi-finals
+session  	TE031	Tennis	0	12:00	20:00	Olympic-Tennis-Centre-Center-Court
+// TE031 session program : 
+   // M Singles: bronze medal match
+   // W Singles: gold medal match
+   // W Singles: victory ceremony
+   // W Singles: bronze medal match
+session  	TE032	Tennis	13	12:00	20:00	Olympic-Tennis-Centre-Court-1
+// TE032 session program : 
+   // W Doubles: bronze medal match
+   // MW Doubles: bronze medal match
+session  	TE033	Tennis	0	12:00	20:00	Olympic-Tennis-Centre-Center-Court
+// TE033 session program : 
+   // M Singles: gold medal match
+   // M Singles: victory ceremony
+   // W Doubles: gold medal match
+   // W Doubles: victory ceremony
+   // MW Doubles: gold medal match
+   // MW Doubles: victory ceremony
+
+// -------------- Triathlon ---------------------
+
+session  	TR001	Triathlon	18	11:00	13:30	Fort-Copacabana
+// TR001 session program : 
+   // M Final and Victory Ceremony
+session  	TR002	Triathlon	20	11:00	13:30	Fort-Copacabana
+// TR002 session program : 
+   // W Final and Victory Ceremony
+
+// -------------- Volley ---------------------
+
+session  	VO001	Volley	6	09:30	13:20	Maracanãzinho
+// VO001 session program : 
+   // W Preliminaries (2 matches)
+session  	VO002	Volley	6	15:00	18:50	Maracanãzinho
+// VO002 session program : 
+   // W Preliminaries (2 matches)
+session  	VO003	Volley	6	20:30	00:20	Maracanãzinho
+// VO003 session program : 
+   // W Preliminaries (2 matches)
+session  	VO004	Volley	7	09:30	13:20	Maracanãzinho
+// VO004 session program : 
+   // M Preliminaries (2 matches)
+session  	VO005	Volley	7	15:00	18:50	Maracanãzinho
+// VO005 session program : 
+   // M Preliminaries (2 matches)
+session  	VO006	Volley	7	20:30	00:20	Maracanãzinho
+// VO006 session program : 
+   // M Preliminaries (2 matches)
+session  	VO007	Volley	8	09:30	13:20	Maracanãzinho
+// VO007 session program : 
+   // W Preliminaries (2 matches)
+session  	VO008	Volley	8	15:00	18:50	Maracanãzinho
+// VO008 session program : 
+   // W Preliminaries (2 matches)
+session  	VO009	Volley	8	20:30	00:20	Maracanãzinho
+// VO009 session program : 
+   // W Preliminaries (2 matches)
+session  	VO010	Volley	9	09:30	13:20	Maracanãzinho
+// VO010 session program : 
+   // M Preliminaries (2 matches)
+session  	VO011	Volley	9	15:00	18:50	Maracanãzinho
+// VO011 session program : 
+   // M Preliminaries (2 matches)
+session  	VO012	Volley	9	20:30	00:20	Maracanãzinho
+// VO012 session program : 
+   // M Preliminaries (2 matches)
+session  	VO013	Volley	10	09:30	13:20	Maracanãzinho
+// VO013 session program : 
+   // W Preliminaries (2 matches)
+session  	VO014	Volley	10	15:00	18:50	Maracanãzinho
+// VO014 session program : 
+   // W Preliminaries (2 matches)
+session  	VO015	Volley	10	20:30	00:20	Maracanãzinho
+// VO015 session program : 
+   // W Preliminaries (2 matches)
+session  	VO016	Volley	11	09:30	13:20	Maracanãzinho
+// VO016 session program : 
+   // M Preliminaries (2 matches)
+session  	VO017	Volley	11	15:00	18:50	Maracanãzinho
+// VO017 session program : 
+   // M Preliminaries (2 matches)
+session  	VO018	Volley	11	20:30	00:20	Maracanãzinho
+// VO018 session program : 
+   // M Preliminaries (2 matches)
+session  	VO019	Volley	12	09:30	13:20	Maracanãzinho
+// VO019 session program : 
+   // W Preliminaries (2 matches)
+session  	VO020	Volley	12	15:00	18:50	Maracanãzinho
+// VO020 session program : 
+   // W Preliminaries (2 matches)
+session  	VO021	Volley	12	20:30	00:20	Maracanãzinho
+// VO021 session program : 
+   // W Preliminaries (2 matches)
+session  	VO022	Volley	13	09:30	13:20	Maracanãzinho
+// VO022 session program : 
+   // M Preliminaries (2 matches)
+session  	VO023	Volley	13	15:00	18:50	Maracanãzinho
+// VO023 session program : 
+   // M Preliminaries (2 matches)
+session  	VO024	Volley	13	20:30	00:20	Maracanãzinho
+// VO024 session program : 
+   // M Preliminaries (2 matches)
+session  	VO025	Volley	14	09:30	13:20	Maracanãzinho
+// VO025 session program : 
+   // W Preliminaries (2 matches)
+session  	VO026	Volley	14	15:00	18:50	Maracanãzinho
+// VO026 session program : 
+   // W Preliminaries (2 matches)
+session  	VO027	Volley	14	20:30	00:20	Maracanãzinho
+// VO027 session program : 
+   // W Preliminaries (2 matches)
+session  	VO028	Volley	15	09:30	13:20	Maracanãzinho
+// VO028 session program : 
+   // M Preliminaries (2 matches)
+session  	VO029	Volley	15	15:00	18:50	Maracanãzinho
+// VO029 session program : 
+   // M Preliminaries (2 matches)
+session  	VO030	Volley	15	20:30	00:20	Maracanãzinho
+// VO030 session program : 
+   // M Preliminaries (2 matches)
+session  	VO031	Volley	16	10:00	12:00	Maracanãzinho
+// VO031 session program : 
+   // W Quarter-finals
+session  	VO032	Volley	16	14:00	16:00	Maracanãzinho
+// VO032 session program : 
+   // W Quarter-finals
+session  	VO033	Volley	16	18:00	20:00	Maracanãzinho
+// VO033 session program : 
+   // W Quarter-finals
+session  	VO034	Volley	16	22:15	00:15	Maracanãzinho
+// VO034 session program : 
+   // W Quarter-finals
+session  	VO035	Volley	17	10:00	12:00	Maracanãzinho
+// VO035 session program : 
+   // M Quarter-finals
+session  	VO036	Volley	17	14:00	16:00	Maracanãzinho
+// VO036 session program : 
+   // M Quarter-finals
+session  	VO037	Volley	17	18:00	20:00	Maracanãzinho
+// VO037 session program : 
+   // M Quarter-finals
+session  	VO038	Volley	17	22:15	00:15	Maracanãzinho
+// VO038 session program : 
+   // M Quarter-finals
+session  	VO039	Volley	18	13:00	15:00	Maracanãzinho
+// VO039 session program : 
+   // W Semi-final
+session  	VO040	Volley	18	22:15	00:15	Maracanãzinho
+// VO040 session program : 
+   // W Semi-final
+session  	VO041	Volley	19	13:00	15:00	Maracanãzinho
+// VO041 session program : 
+   // M Semi-final
+session  	VO042	Volley	19	22:15	00:15	Maracanãzinho
+// VO042 session program : 
+   // M Semi-final
+session  	VO043	Volley	20	13:00	15:00	Maracanãzinho
+// VO043 session program : 
+   // W Bronze medal match
+session  	VO044	Volley	20	22:15	00:30	Maracanãzinho
+// VO044 session program : 
+   // W Gold medal match
+   // W  Victory ceremony
+session  	VO045	Volley	21	09:30	11:30	Maracanãzinho
+// VO045 session program : 
+   // M Bronze medal match
+session  	VO046	Volley	21	13:15	15:30	Maracanãzinho
+// VO046 session program : 
+   // M Gold medal match
+   // M Victory ceremony
+
+// -------------- Water-polo ---------------------
+
+session  	WP001	Water-polo	6	10:00	12:40	Julio-de-Lamare-Aquatics-Center
+// WP001 session program : 
+   // M Preliminaries (2 matches)
+session  	WP002	Water-polo	6	14:10	16:50	Julio-de-Lamare-Aquatics-Center
+// WP002 session program : 
+   // M Preliminaries (2 matches)
+session  	WP003	Water-polo	6	18:20	21:00	Julio-de-Lamare-Aquatics-Center
+// WP003 session program : 
+   // M Preliminaries (2 matches)
+session  	WP004	Water-polo	8	10:00	12:40	Julio-de-Lamare-Aquatics-Center
+// WP004 session program : 
+   // M Preliminaries (2 matches)
+session  	WP005	Water-polo	8	14:10	16:50	Julio-de-Lamare-Aquatics-Center
+// WP005 session program : 
+   // M Preliminaries (2 matches)
+session  	WP006	Water-polo	8	18:20	21:00	Julio-de-Lamare-Aquatics-Center
+// WP006 session program : 
+   // W Preliminaries (2 matches)
+session  	WP007	Water-polo	9	10:00	12:40	Julio-de-Lamare-Aquatics-Center
+// WP007 session program : 
+   // W Preliminaries (2 matches)
+session  	WP008	Water-polo	9	14:10	16:50	Julio-de-Lamare-Aquatics-Center
+// WP008 session program : 
+   // M Preliminaries (2 matches)
+session  	WP009	Water-polo	10	10:00	12:40	Julio-de-Lamare-Aquatics-Center
+// WP009 session program : 
+   // M Preliminaries (2 matches)
+session  	WP010	Water-polo	10	14:10	16:50	Julio-de-Lamare-Aquatics-Center
+// WP010 session program : 
+   // M Preliminaries (2 matches)
+session  	WP011	Water-polo	10	18:20	21:00	Julio-de-Lamare-Aquatics-Center
+// WP011 session program : 
+   // W Preliminaries (2 matches)
+session  	WP012	Water-polo	11	10:00	12:40	Julio-de-Lamare-Aquatics-Center
+// WP012 session program : 
+   // W Preliminaries (2 matches)
+session  	WP013	Water-polo	11	14:10	16:50	Julio-de-Lamare-Aquatics-Center
+// WP013 session program : 
+   // M Preliminaries (2 matches)
+session  	WP014	Water-polo	12	10:00	12:40	Julio-de-Lamare-Aquatics-Center
+// WP014 session program : 
+   // M Preliminaries (2 matches)
+session  	WP015	Water-polo	12	14:10	16:50	Julio-de-Lamare-Aquatics-Center
+// WP015 session program : 
+   // M Preliminaries (2 matches)
+session  	WP016	Water-polo	12	18:20	21:00	Julio-de-Lamare-Aquatics-Center
+// WP016 session program : 
+   // W Preliminaries (2 matches)
+session  	WP017	Water-polo	13	10:00	12:40	Julio-de-Lamare-Aquatics-Center
+// WP017 session program : 
+   // W Preliminaries (2 matches)
+session  	WP018	Water-polo	13	14:10	16:50	Julio-de-Lamare-Aquatics-Center
+// WP018 session program : 
+   // M Preliminaries (2 matches)
+session  	WP019	Water-polo	14	10:00	12:40	Julio-de-Lamare-Aquatics-Center
+// WP019 session program : 
+   // M Preliminaries (2 matches)
+session  	WP020	Water-polo	14	14:10	16:50	Julio-de-Lamare-Aquatics-Center
+// WP020 session program : 
+   // M Preliminaries (2 matches)
+session  	WP021	Water-polo	14	18:20	21:00	Olympic-Aquatics-Stadium
+// WP021 session program : 
+   // W Quarter-finals (2 matches)
+session  	WP022	Water-polo	15	14:10	16:50	Olympic-Aquatics-Stadium
+// WP022 session program : 
+   // W Quarter-finals (2 matches)
+session  	WP023	Water-polo	15	18:20	21:00	Olympic-Aquatics-Stadium
+// WP023 session program : 
+   // M Quarter-finals (2 matches)
+session  	WP024	Water-polo	16	11:00	13:40	Olympic-Aquatics-Stadium
+// WP024 session program : 
+   // M Quarter-finals (2 matches)
+session  	WP025	Water-polo	16	15:10	17:50	Olympic-Aquatics-Stadium
+// WP025 session program : 
+   // W Classification match (5th-8th place)
+   // W Semi-final	
+session  	WP026	Water-polo	17	11:00	13:40	Olympic-Aquatics-Stadium
+// WP026 session program : 
+   // W Semi-final
+   // W Classification match (5th-8th place)
+session  	WP027	Water-polo	17	15:10	17:50	Olympic-Aquatics-Stadium
+// WP027 session program : 
+   // M Classification match (5th-8th place)
+   // M Semi-final	
+session  	WP028	Water-polo	18	11:00	13:40	Olympic-Aquatics-Stadium
+// WP028 session program : 
+   // M Semi-final
+   // M Classification match (5th-8th place)
+session  	WP029	Water-polo	18	15:10	17:50	Olympic-Aquatics-Stadium
+// WP029 session program : 
+   // 0
+session  	WP030	Water-polo	19	10:00	12:40	Olympic-Aquatics-Stadium
+// WP030 session program : 
+   // W Classification match (7th-8th place)
+   // W Bronze medal match
+session  	WP031	Water-polo	19	14:10	17:20	Olympic-Aquatics-Stadium
+// WP031 session program : 
+   // W Classification match (5th-6th place)
+   // W Gold medal match
+   // W Victory ceremony
+session  	WP032	Water-polo	20	11:40	14:20	Olympic-Aquatics-Stadium
+// WP032 session program : 
+   // M Classification match (7th-8th place)
+   // M Bronze medal match
+session  	WP033	Water-polo	20	16:30	19:40	Olympic-Aquatics-Stadium
+// WP033 session program : 
+   // M Classification match (5th-6th place)
+   // M Gold medal match
+   // M Victory ceremony
+
+// -------------- Weight-Lifting ---------------------
+
+session  	WL001	Weight-Lifting	6	19:00	21:00	Riocentro-Pavilion-2
+// WL001 session program : 
+   // 48kg: group A
+   // 48kg: victory ceremony
+session  	WL002	Weight-Lifting	7	10:00	14:00	Riocentro-Pavilion-2
+// WL002 session program : 
+   // M 56kg: group B
+   // 53kg: group B
+session  	WL003	Weight-Lifting	7	15:30	17:30	Riocentro-Pavilion-2
+// WL003 session program : 
+   // 53kg: group A
+   // 53kg: victory ceremony
+session  	WL004	Weight-Lifting	7	19:00	21:00	Riocentro-Pavilion-2
+// WL004 session program : 
+   // M 56kg: group A
+   // M 56kg: victory ceremony
+session  	WL005	Weight-Lifting	8	10:00	14:00	Riocentro-Pavilion-2
+// WL005 session program : 
+   // M 62kg: group B
+   // 58kg: group B
+session  	WL006	Weight-Lifting	8	15:30	17:30	Riocentro-Pavilion-2
+// WL006 session program : 
+   // 58kg: group A
+   // 58kg: victory ceremony
+session  	WL007	Weight-Lifting	8	19:00	21:00	Riocentro-Pavilion-2
+// WL007 session program : 
+   // M 62kg: group A
+   // M 62kg: victory ceremony
+session  	WL008	Weight-Lifting	9	10:00	14:00	Riocentro-Pavilion-2
+// WL008 session program : 
+   // M 69kg: group B
+   // W 63kg: group B
+session  	WL009	Weight-Lifting	9	15:30	17:30	Riocentro-Pavilion-2
+// WL009 session program : 
+   // W 63kg: group A
+   // W 63kg: victory ceremony
+session  	WL010	Weight-Lifting	9	19:00	21:00	Riocentro-Pavilion-2
+// WL010 session program : 
+   // M 69kg: group A
+   // M 69kg: victory ceremony
+session  	WL011	Weight-Lifting	10	10:00	14:00	Riocentro-Pavilion-2
+// WL011 session program : 
+   // M 77kg: group B
+   // W 69kg: group B
+session  	WL012	Weight-Lifting	10	15:30	17:30	Riocentro-Pavilion-2
+// WL012 session program : 
+   // W 69kg: group A
+   // W 69kg: victory ceremony
+session  	WL013	Weight-Lifting	10	19:00	21:00	Riocentro-Pavilion-2
+// WL013 session program : 
+   // M 77kg: group A
+   // M 77kg: victory ceremony
+session  	WL014	Weight-Lifting	12	10:00	14:00	Riocentro-Pavilion-2
+// WL014 session program : 
+   // M 85kg: group B
+   // W 75kg: group B
+session  	WL015	Weight-Lifting	12	15:30	17:30	Riocentro-Pavilion-2
+// WL015 session program : 
+   // W 75kg: group A
+   // W 75kg: victory ceremony
+session  	WL016	Weight-Lifting	12	19:00	21:00	Riocentro-Pavilion-2
+// WL016 session program : 
+   // M 85kg: group A
+   // M 85kg: victory ceremony
+session  	WL017	Weight-Lifting	13	15:30	17:30	Riocentro-Pavilion-2
+// WL017 session program : 
+   // M 94kg: group B
+session  	WL018	Weight-Lifting	13	19:00	21:00	Riocentro-Pavilion-2
+// WL018 session program : 
+   // M 94kg: group A
+   // M 94kg: victory ceremony
+session  	WL019	Weight-Lifting	14	19:00	21:00	Riocentro-Pavilion-2
+// WL019 session program : 
+   // W +75kg: group A
+   // W +75kg: victory ceremony
+session  	WL020	Weight-Lifting	15	15:30	17:30	Riocentro-Pavilion-2
+// WL020 session program : 
+   // M 105kg: group B
+session  	WL021	Weight-Lifting	15	19:00	21:00	Riocentro-Pavilion-2
+// WL021 session program : 
+   // M 105kg: group A
+   // M 105kg: victory ceremony
+session  	WL022	Weight-Lifting	16	15:30	17:30	Riocentro-Pavilion-2
+// WL022 session program : 
+   // M +105kg: group B
+session  	WL023	Weight-Lifting	16	19:00	21:00	Riocentro-Pavilion-2
+// WL023 session program : 
+   // M +105kg: group A
+   // M +105kg: victory ceremony
+
+// -------------- Wrestling-Freestyle ---------------------
+
+session  	WF001	Wrestling-Freestyle	17	10:00	13:00	Carioca-Arena-2
+// WF001 session program : 
+   // W 48kg: qualifications
+   // W 58kg: qualifications
+   // W 69kg: qualifications
+   // W 48kg: eliminations
+   // W 58kg: eliminations
+   // W 69kg: eliminations
+session  	WF002	Wrestling-Freestyle	17	16:00	19:00	Carioca-Arena-2
+// WF002 session program : 
+   // W 48kg: repechage rounds
+   // W 58kg: repechage rounds
+   // W 69kg: repechage rounds
+   // W 48kg: bronze medal contests
+   // W 48kg: gold medal contest
+   // W 48kg: victory ceremony
+   // W 58kg: bronze medal contests
+   // W 58kg: gold medal contest
+   // W 58kg: victory ceremony
+   // W 69kg: bronze medal contests
+   // W 69kg: gold medal contest
+   // W 69kg: victory ceremony
+session  	WF003	Wrestling-Freestyle	18	10:00	13:00	Carioca-Arena-2
+// WF003 session program : 
+   // W 53kg: qualifications
+   // W 63kg: qualifications
+   // W 75kg: qualifications
+   // W 53kg: eliminations
+   // W 63kg: eliminations
+   // W 75kg: eliminations
+session  	WF004	Wrestling-Freestyle	18	16:00	19:00	Carioca-Arena-2
+// WF004 session program : 
+   // W 53kg: repechage rounds
+   // W 63kg: repechage rounds
+   // W 75kg: repechage rounds
+   // W 53kg: bronze medal contests
+   // W 53kg: gold medal contest
+   // W 53kg: victory ceremony
+   // W 63kg: bronze medal contests
+   // W 63kg: gold medal contest
+   // W 63kg: victory ceremony
+   // W 75kg: bronze medal contests
+   // W 75kg: gold medal contest
+   // W 75kg: victory ceremony
+session  	WF005	Wrestling-Freestyle	19	10:00	13:00	Carioca-Arena-2
+// WF005 session program : 
+   // M 57kg: qualifications
+   // M 74kg: qualifications
+   // M 57kg: eliminations
+   // M 74kg: eliminations
+session  	WF006	Wrestling-Freestyle	19	16:00	19:00	Carioca-Arena-2
+// WF006 session program : 
+   // M 57kg: repechage rounds
+   // M 74kg: repechage rounds
+   // M 57kg: bronze medal contest
+   // M 57kg: gold medal contest
+   // M 57kg: victory ceremony
+   // M 74kg: bronze medal contest
+   // M 74kg: gold medal contest
+   // M 74kg: victory ceremony
+session  	WF007	Wrestling-Freestyle	20	10:00	13:00	Carioca-Arena-2
+// WF007 session program : 
+   // M 86kg: qualifications/eliminations
+   // M 125kg: qualifications/eliminations
+session  	WF008	Wrestling-Freestyle	20	16:00	19:00	Carioca-Arena-2
+// WF008 session program : 
+   // M 86kg: repechage, bronze medal contest, final and victory ceremony
+   // M 125kg: repechage, bronze medal contest, final and victory ceremony
+session  	WF009	Wrestling-Freestyle	21	08:30	11:15	Carioca-Arena-2
+// WF009 session program : 
+   // M 65kg: qualifications/eliminations
+   // M 97kg: qualifications/eliminations
+session  	WF010	Wrestling-Freestyle	21	12:45	15:15	Carioca-Arena-2
+// WF010 session program : 
+   // M 65kg: repechage, bronze medal contest, final and victory ceremony
+   // M 97kg: repechage, bronze medal contest, final and victory ceremony
+
+// -------------- Wrestling-GrecoRoman ---------------------
+
+session  	WG001	Wrestling-GrecoRoman	14	10:00	13:00	Carioca-Arena-2
+// WG001 session program : 
+   // M 59kg: qualifications
+   // M 75kg: qualifications
+   // M 59kg: eliminations
+   // M 75kg: eliminations
+session  	WG002	Wrestling-GrecoRoman	14	16:00	19:00	Carioca-Arena-2
+// WG002 session program : 
+   // M 59kg: repechage rounds
+   // M 75kg: repechage rounds
+   // M 59kg: bronze medal contest
+   // M 59kg: gold medal contest
+   // M 59kg: victory ceremony
+   // M 75kg: gold medal contest
+   // M 75kg: victory ceremony
+session  	WG003	Wrestling-GrecoRoman	15	10:00	13:00	Carioca-Arena-2
+// WG003 session program : 
+   // M 85kg: qualifications
+   // M 130kg: qualifications
+   // M 85kg: eliminations
+   // M 130kg: eliminations
+session  	WG004	Wrestling-GrecoRoman	15	16:00	19:00	Carioca-Arena-2
+// WG004 session program : 
+   // M 85kg: repechage rounds
+   // M 130kg: repechage rounds
+   // M 85kg: bronze medal contest
+   // M 85kg: gold medal contest
+   // M 85kg: victory ceremony
+   // M 130kg: bronze medal contest
+   // M 130kg: gold medal contest
+   // M 130kg: victory ceremony
+session  	WG005	Wrestling-GrecoRoman	16	10:00	13:00	Carioca-Arena-2
+// WG005 session program : 
+   // M 66kg: qualifications
+   // M 98kg: qualifications
+   // M 66kg: eliminations
+   // M 98kg: eliminations

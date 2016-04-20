@@ -1,0 +1,15 @@
+nom = "resamult_3";
+
+fichiersDonnees = {
+	"../donneesInstances/jo/sessions.txt",
+	"../donneesInstances/jo/zones.txt",
+	"../donneesInstances/jo/pits_Rio_1.txt",
+	"../donneesInstances/jo/hotels_1.txt",
+	"../donneesInstances/jo/transferts_hotels_1.txt",
+	"../donneesInstances/jo/resa/resa_5_3_3_1-2_pgm_b1_d0_c1_m1_p3_pgm1.txt",
+	"../donneesInstances/jo/resa/resa_12_11_1_5_1-5_pgm1.txt"	
+};
+
+
+
+ 
