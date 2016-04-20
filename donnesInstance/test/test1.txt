@@ -1,0 +1,5 @@
+pit corcovado 					04:00	08:00	18:00 	  
+
+pit jardimBotânico 				03:00	08:00	17:00 	  
+
+pit pãoDeAçucar 				03:00	08:00	21:00 
