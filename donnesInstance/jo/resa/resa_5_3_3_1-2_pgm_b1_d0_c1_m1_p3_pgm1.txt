@@ -1,0 +1,7 @@
+// Reservation
+// Format : 
+// reservation <idR> 		<d> 	<nj> 	<nc> 	<cat>	programme 		<P1> | <P2> | ... | <Pnj>
+
+reservation  pierreDurand  	5		3   	2		1-2		programme 	jardimBotânico ZO001 | RO001 TE005 | praiaIpanemaLeblon pãoDeAçucar
+
+
