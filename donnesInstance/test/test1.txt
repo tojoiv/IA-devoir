@@ -1,5 +1,26 @@
-pit corcovado 					04:00	08:00	18:00 	  
+// --- Points d'intérêt touristique ---
+//    Id       Duree    Ouverture/Fermeture     Jours
 
-pit jardimBotânico 				03:00	08:00	17:00 	  
+pit monasteiroSãoBento        02:00 07:00 18:00 
 
-pit pãoDeAçucar 				03:00	08:00	21:00 
+pit pacoImperial           02:00 12:00 18:00     2-7,9-14,16-21,22-28,30-31
+
+pit museuHistóricoNacionalRio 4:00  10:00 17:30  2-7,9-14,16-21,22-28,30-31
+
+pit monasteiroSantoAntônio        02:00   07:30 17:00     2-7,9-14,16-21,22-28,30-31
+
+pit corcovado              04:00 08:00 18:00      
+
+pit jardimBotânico            03:00 08:00 17:00      
+
+pit pãoDeAçucar            03:00 08:00 21:00      
+
+pit museuNacionalDeBelasArtes 04:00 08:00 18:00    2-5,9-12,16-19,22-26,30-31  
+
+pit excursãoLapaByNight       04:00 17:00 24:00
+
+pit excursãoUrca           03:00 10:00 14:00  8,15,22,29
+
+pit praiaIpanemaLeblon        05:00 07:00 18:00
+   
+pit excursãoBuzios            12:00 07:00 19:00
