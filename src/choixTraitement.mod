@@ -8,15 +8,6 @@
 ************************/
 using CP;
 
-string   nom = ...;					/* nom de l'instance */
-{string} fichiersDonnees = ...;		/* ens des chemins vers les fichiers décrivant l'instance */
-int cardFD = card (fichiersDonnees);
-range r = 1..cardFD; 
-
-
-// Prétraitement
-
-//string tabFD [r] = [ e : e | e in fichiersDonnees]; 
 
 /************************************************************************
 * Lecture du fichier d'instance
@@ -29,40 +20,44 @@ les fichiers décrivant l'instance.
 
 
 
-execute {  
-	includeScript("lectureInstance.js");	// Permet d'inclure un fichier de script
-	for (s in fichiersDonnees){
-		lecture (s);
-	}	
+
+tuple Session {
+	string ids;
+	string sport;
+	int jour;
+	int debut;
+	int fin;
+	string installation;
+	
+}
+
+tuple Pit {
+	string idP;
+	int duree;
+	int debut;
+	int fin;
+	{int} jours;
+}
+
+tuple Zone {
+	string idZ;
+	string  installation;
+	int avant;
+	int apres;
+}
+
+tuple Transfert {
+	string idLieuDepart;
+	string idLieuArrivee;
+	int duree;	
 }
 
 
 
-main {
-
-	var source = new IloOplModelSource("choixTraitement.mod");
-	var cp = new IloCP();
-	var def = new IloOplModelDefinition(source);
-	var opl = new IloOplModel(def,cp);
-	//thisOplModel.generate();
-	//var data = new IloOplDataSource("./dat/sessions.dat");
-	
-	var data_session = new IloOplDataSource("./dat/sessions.dat");
-	var data_pit = new IloOplDataSource("./dat/pits_Rio_1.dat");
-	var data_zone = new IloOplDataSource("./dat/zones.dat");
-	var data_transfert_zone = new IloOplDataSource("./dat/transferts_zones.dat");
-	var data_transfert_pit = new IloOplDataSource("./dat/transferts_pits.dat");
-
-	opl.addDataSource(data_session);
-	opl.addDataSource(data_pit);
-	opl.addDataSource(data_zone);
-	opl.addDataSource(data_transfert_zone);
-	opl.addDataSource(data_transfert_pit);
-	//thisOplModel.addDataSource(data);
-	//thisOplModel.generate();
-	opl.generate();
-	
-}
+{Session} session = ...;
+{Pit} pit = ...;
+{Zone} zone = ...;
+{Transfert} transfert = ...;
 
 
 /************************************************************************

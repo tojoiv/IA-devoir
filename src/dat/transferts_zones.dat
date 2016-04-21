@@ -1,0 +1,10 @@
+transfert={
+
+<"Barra","Deodoro",50>,
+<"Barra","Maracanã",90>,
+<"Barra","Copacabana",70>,
+<"Deodoro","Maracanã",70>,
+<"Deodoro","Copacabana",90>,
+<"Maracanã","Copacabana",30>
+
+};

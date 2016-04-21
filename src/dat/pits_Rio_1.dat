@@ -1,0 +1,16 @@
+pit={
+
+<"monasteiroSãoBento",120,420,1080,{}>,
+<"pacoImperial",120,720,1080,{8,15,29}>,
+<"museuHistóricoNacionalRio",240,600,1050,{8,15,29}>,
+<"monasteiroSantoAntônio",120,450,1020,{8,15,29}>,
+<"corcovado",240,480,1080,{}>,
+<"jardimBotânico",180,480,1020,{}>,
+<"pãoDeAçucar",180,480,1260,{}>,
+<"museuNacionalDeBelasArtes",240,480,1080,{6,7,8,13,14,15,20,21,27,28,29}>,
+<"excursãoLapaByNight",240,1020,1440,{}>,
+<"excursãoUrca",180,600,840,{2,3,4,5,6,7,9,10,11,12,13,14,16,17,18,19,20,21,23,24,25,26,27,28,30,31}>,
+<"praiaIpanemaLeblon",300,420,1080,{}>,
+<"excursãoBuzios",720,420,1140,{}>
+
+};
