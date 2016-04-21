@@ -1,4 +1,0 @@
-// --- hotels -----
-
-hotel	CopacabanaPalace	5	5 	3
-

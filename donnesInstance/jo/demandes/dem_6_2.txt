@@ -1,3 +1,0 @@
-// un exemple sans restriction
-demande  d6.2  6  2
-
