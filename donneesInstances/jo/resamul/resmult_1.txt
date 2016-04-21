@@ -1,0 +1,10 @@
+// Format : 
+// reservation <idR> 		<d> 	<nj> 	<nc> 	<cat>	programme 		<P1> | <P2> | ... | <Pnj>
+
+// Mme va a la plage le matin et rejoint ensuite Mr en fin de journee
+// un test simple avec une contrainte memeHotel
+
+reservation  MrLetrac   	15		7   	1		2-3		programme 	WG003              AT007  | DV009              VO032 | WP026			  BK054 | praiaIpanemaLeblon pãoDeAçucar | CF005              AW003 | CM001				 FB038 | AM002 				ZC001 
+reservation  MmeLetrac   	15		7   	1		2-3		programme 	praiaIpanemaLeblon AT007  | praiaIpanemaLeblon VO032 | praiaIpanemaLeblon BK054 | praiaIpanemaLeblon pãoDeAçucar | praiaIpanemaLeblon AW003 | praiaIpanemaLeblon FB038 | praiaIpanemaLeblon ZC001 
+                                                           //			15			                16                          17                        18                                19                        20                         21
+memeHotel	MrLetrac MmeLetrac
